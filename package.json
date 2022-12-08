@@ -1,0 +1,23 @@
+{
+  "name": "next-data-research",
+  "version": "1.0.0",
+  "description": "Performance Research on Next Apps",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/akamai-advanced-solutions/next-data-research.git"
+  },
+  "author": "Josh Appel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akamai-advanced-solutions/next-data-research/issues"
+  },
+  "homepage": "https://github.com/akamai-advanced-solutions/next-data-research#readme",
+  "dependencies": {
+    "puppeteer": "^19.4.0"
+  }
+}
