@@ -19,8 +19,9 @@ const sites = [
 
   "https://www.walmart.com/",
 
-  "https://www.coach.com"
+  "https://www.katespade.com"
 ];
+// const findSite = url => sites.find(url === url)
 
 (async () => {
   // Initialize Puppeteer
@@ -39,26 +40,41 @@ const sites = [
 
     // await page.emulate("iPhone X");
 
-    await page.goto(sites[1], { waitUntil: "load", timeout: 60000 });
+    await page.goto(findSite("https://www.walmart.com"), {
+      waitUntil: "load",
+      timeout: 60000
+    });
     console.log("page has been loaded!");
 
     page.on("console", async (msg) => {
       const args = await Promise.all(msg.args().map((arg) => describe(arg)));
       console.log(msg.text(), ...args);
     });
-    const result = await page.evaluate(async () => {
-      const json = document.getElementById("__NEXT_DATA__").innerHTML;
-      console.log(json);
 
-      return json;
-    });
+    const result = await page
+      .evaluate(
+        async (document, window) => {
+          return await new Promise(async (resolve) => {
+            const json = document.getElementById("__NEXT_DATA__").innerHTML;
+            console.log("55:", json);
+            window.next = json;
+            resolve({ window, json });
+          });
+        },
+        document,
+        window
+      )
+      .then(async ({ window, json }) => {
+        console.log(json);
+
+        const file = await writeFile(json, "kate.json");
+        console.log(file);
+        const size = await stat(file).size;
+        console.log(size);
+        window.stop();
+      });
 
     console.log(result);
-
-    const file = await writeFile(result, path.join(__dirname, "nike.json"));
-    console.log(file);
-    const size = await stat(file).size;
-    console.log(size);
 
     await browser.close();
   } catch (error) {
