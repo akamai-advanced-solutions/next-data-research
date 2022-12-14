@@ -1,0 +1,3306 @@
+{
+  "props": {
+    "pageProps": {
+      "initialTempoData": {
+        "data": {
+          "contentLayout": {
+            "modules": [
+              {
+                "name": "Save big - Mini Carousel Module (Item Showcase) - Desktop - Zone 11 - using Top deals shelf 3993764 - 12.7.22",
+                "type": "MiniCarousel",
+                "version": 3,
+                "status": "published",
+                "schedule": {
+                  "start": "2022-12-08T01:00Z",
+                  "end": "2022-12-17T00:00Z",
+                  "priority": 3,
+                  "expEnabled": false
+                },
+                "triggers": [
+                  {
+                    "pageType": "HomePageDesktop",
+                    "pageId": null,
+                    "zone": "contentZone11",
+                    "inheritable": false
+                  }
+                ],
+                "publishedDate": 1670369808825,
+                "moduleId": "3eb91385-991b-413b-94d3-8f563e938652",
+                "module_id": "3eb91385-991b-413b-94d3-8f563e938652",
+                "matchedTrigger": {
+                  "pageType": "HomePageDesktop",
+                  "pageId": null,
+                  "zone": "contentZone11",
+                  "inheritable": false
+                },
+                "configs": {
+                  "__typename": "TempoWM_GLASSWWWMiniCarouselConfigs",
+                  "carouselType": "itemShowCase",
+                  "miniCarouselTitle": "Save big",
+                  "viewAllLink": {
+                    "linkText": "View all",
+                    "title": "View all",
+                    "clickThrough": {
+                      "rawValue": "/shop/deals",
+                      "tag": null,
+                      "type": "url",
+                      "value": "/shop/deals?athcpid=3eb91385-991b-413b-94d3-8f563e938652\u0026athpgid=AthenaHomepageDesktop\u0026athznid=athenaModuleZone\u0026athmtid=AthenaMiniCarousel\u0026athtvid=3\u0026athena=true"
+                    }
+                  },
+                  "minItems": "1",
+                  "manualShelfId": "3993764",
+                  "items": ["111488395"],
+                  "products": [
+                    {
+                      "canAddToCart": false,
+                      "showOptions": true,
+                      "badge": {
+                        "id": "",
+                        "text": "Holiday Deal",
+                        "key": "HOLIDAY_DEAL",
+                        "type": "",
+                        "rank": ""
+                      },
+                      "flag": "Holiday Deal",
+                      "fulfillmentBadges": ["3+ day shipping"],
+                      "fulfillmentSpeed": null,
+                      "fulfillmentType": "FC",
+                      "id": "764932179",
+                      "image": "https://i5.walmartimages.com/asr/9cce81b7-edb9-421f-a4d6-2a9360d7cb5e.fb60af221bd2403c01a121f895df4e64.jpeg",
+                      "isOutOfStock": false,
+                      "maxVisibleSwatchCount": 4,
+                      "name": "SuperFit 2.25HP 2 in 1 Folding Treadmill W/ APP Speaker Remote Control",
+                      "offerId": "ED37B145C2D4458897FF997CA4CD8D4E",
+                      "salesUnitType": "EACH",
+                      "weightIncrement": 1,
+                      "preOrder": null,
+                      "price": 0,
+                      "priceInfo": {
+                        "priceDisplayCondition": null,
+                        "wasPrice": "$492.00",
+                        "minPriceForVariant": "$269.99"
+                      },
+                      "usItemId": "764932179",
+                      "variantList": [],
+                      "isVariantTypeSwatch": false,
+                      "type": "BVSHELL",
+                      "rating": {
+                        "averageRating": 3.9,
+                        "numberOfReviews": 395
+                      },
+                      "sponsoredProduct": null,
+                      "isSponsoredFlag": false,
+                      "brand": "Costway",
+                      "canonicalUrl": "/ip/SuperFit-2-25HP-2-in-1-Folding-Treadmill-W-APP-Speaker-Remote-Control/764932179?athcpid=764932179\u0026athpgid=AthenaHomepageDesktop__gm__-1.0\u0026athcgid=null\u0026athznid=ItemShowCase_3eb91385-991b-413b-94d3-8f563e938652_items\u0026athieid=null\u0026athstid=CS020\u0026athguid=Gg2Cck7QRihWzkjl5JVn3VXjxMjiWP826l6h\u0026athancid=null\u0026athena=true\u0026athbdg=L1800"
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "HubSpoke 1: 2x2 Module - Low prices all around: Tech/ Toys/ Fashion/ Home - Desktop - 12.6.22",
+                "type": "HubSpokes2x2",
+                "version": 7,
+                "status": "published",
+                "schedule": {
+                  "start": null,
+                  "end": "2022-12-12T17:00Z",
+                  "priority": 3,
+                  "expEnabled": false
+                },
+                "triggers": [
+                  {
+                    "pageType": "HomePageDesktop",
+                    "pageId": null,
+                    "zone": "contentZone12",
+                    "inheritable": false
+                  }
+                ],
+                "publishedDate": 1670514379050,
+                "moduleId": "d460737e-5fec-4307-8826-9ceaefb6fd42",
+                "module_id": "d460737e-5fec-4307-8826-9ceaefb6fd42",
+                "matchedTrigger": {
+                  "pageType": "HomePageDesktop",
+                  "pageId": null,
+                  "zone": "contentZone12",
+                  "inheritable": false
+                },
+                "configs": {
+                  "__typename": "TempoWM_GLASSWWWHubSpokes2x2Configs",
+                  "headingText": "Low prices all around",
+                  "categories2x2": [
+                    {
+                      "name": "Up to 45% off tech",
+                      "image": {
+                        "alt": "Shop up to forty five percent off tech",
+                        "assetId": "15f8b563-2d9c-432c-9baf-928068ae45bd",
+                        "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-d19b/k2-_bb22fa4b-6d19-45ab-8e3d-a08a86419bf0.v1.jpg",
+                        "clickThrough": { "value": "/shop/deals/electronics" }
+                      }
+                    },
+                    {
+                      "name": "Up to 50% off toys",
+                      "image": {
+                        "alt": "Shop up to fifty percent off toys",
+                        "assetId": "a245d078-3d56-4f74-bd2a-95dce0599330",
+                        "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-c43d/k2-_e16bf6f8-e0b2-4cba-961e-55ee3fee785a.v1.jpg",
+                        "clickThrough": { "value": "/shop/deals/toys" }
+                      }
+                    },
+                    {
+                      "name": "Up to 60% off fashion",
+                      "image": {
+                        "alt": "Shop up to sixty percent off fashion",
+                        "assetId": "330bd4d9-0a62-4e2f-be1a-015f6327de26",
+                        "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-7ac6/k2-_049e7e82-2552-4bdf-9adb-595bbf5d5e0d.v1.jpg",
+                        "clickThrough": {
+                          "value": "/shop/deals/clothing-and-accessories"
+                        }
+                      }
+                    },
+                    {
+                      "name": "Up to 40% off home",
+                      "image": {
+                        "alt": "Shop up to forty percent off home",
+                        "assetId": "4e048b49-a866-4817-ba53-b1f5952873bf",
+                        "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-629f/k2-_6cdec08f-936f-416c-95e7-f194a1a7a5ad.v1.jpg",
+                        "clickThrough": { "value": "/shop/deals/all-home" }
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "BookSlot Placeholder Module - mWeb/Desktop - 1.22.21",
+                "type": "BookSlot",
+                "version": 5,
+                "status": "published",
+                "schedule": {
+                  "start": null,
+                  "end": null,
+                  "priority": 1,
+                  "expEnabled": false
+                },
+                "triggers": [
+                  {
+                    "pageType": "HomePageDesktop",
+                    "pageId": null,
+                    "zone": "contentZone4",
+                    "inheritable": false
+                  },
+                  {
+                    "pageType": "Homepage",
+                    "pageId": null,
+                    "zone": "contentZone1",
+                    "inheritable": false
+                  }
+                ],
+                "publishedDate": 1611690827356,
+                "moduleId": "3803f666-7a04-4911-b8ac-012ddb2a48cf",
+                "module_id": "3803f666-7a04-4911-b8ac-012ddb2a48cf",
+                "matchedTrigger": {
+                  "pageType": "HomePageDesktop",
+                  "pageId": null,
+                  "zone": "contentZone4",
+                  "inheritable": false
+                },
+                "configs": { "__typename": "TempoWM_GLASSWWWBookSlotConfigs" }
+              },
+              {
+                "name": "Gallery Display Ad Module",
+                "type": "GalleryDisplayAd",
+                "version": 7,
+                "status": "published",
+                "schedule": {
+                  "start": null,
+                  "end": null,
+                  "priority": 1,
+                  "expEnabled": false
+                },
+                "triggers": [
+                  {
+                    "pageType": "HomePageDesktop",
+                    "pageId": null,
+                    "zone": "contentZone17",
+                    "inheritable": false
+                  }
+                ],
+                "publishedDate": 1666129303001,
+                "moduleId": "49c56cbc-9737-4235-890d-1c181c9f776b",
+                "module_id": "49c56cbc-9737-4235-890d-1c181c9f776b",
+                "matchedTrigger": {
+                  "pageType": "HomePageDesktop",
+                  "pageId": null,
+                  "zone": "contentZone17",
+                  "inheritable": false
+                },
+                "configs": {
+                  "__typename": "TempoWM_GLASSWWWGalleryDisplayAdConfigs",
+                  "_rawConfigs": {
+                    "title": "Brands for you",
+                    "moduleLocation": "gallery",
+                    "lazy": "1200"
+                  }
+                }
+              },
+              {
+                "name": "MINI Hero-POV - Hero POV Module -  Everyday Needs OPD/ Hanukkah Decor/ Weekly Trip/ Flash Picks/ W+ - Desktop (Default) 12.10.22",
+                "type": "HeroPov",
+                "version": 2,
+                "status": "published",
+                "schedule": {
+                  "start": "2022-12-10T17:00Z",
+                  "end": "2022-12-12T17:00Z",
+                  "priority": 2,
+                  "expEnabled": false
+                },
+                "triggers": [
+                  {
+                    "pageType": "HomePageDesktop",
+                    "pageId": null,
+                    "zone": "contentZone2",
+                    "inheritable": false
+                  }
+                ],
+                "publishedDate": 1670512772497,
+                "moduleId": "906f5ca7-7f22-444a-87f3-f08fee77fc2a",
+                "module_id": "906f5ca7-7f22-444a-87f3-f08fee77fc2a",
+                "matchedTrigger": {
+                  "pageType": "HomePageDesktop",
+                  "pageId": null,
+                  "zone": "contentZone2",
+                  "inheritable": false
+                },
+                "configs": {
+                  "__typename": "TempoWM_GLASSWWWHeroPovConfigsV1",
+                  "autoRotation": "on",
+                  "p13nCards": [
+                    {
+                      "povStyle": "ctaButton",
+                      "ctaButton": {
+                        "button": {
+                          "linkText": "Shop now",
+                          "title": "Shop now",
+                          "uid": "JCde94Ni",
+                          "clickThrough": {
+                            "value": "https://www.walmart.com/shop/deals?athcpid=78eb4297-ff08-4a3b-8995-3d5c2a06b1c7\u0026athpgid=AthenaHomepageDesktop\u0026athznid=athenaModuleZone\u0026athmtid=AthenaHeroPov\u0026athtvid=1\u0026athena=true\u0026athstid=CS011%7CCS041\u0026athftid=P0000\u0026athguid=Gg2Cck7QRihWzkjl5JVn3VXjxMjiWP826l6h"
+                          }
+                        },
+                        "textColor": "#000000",
+                        "ctaButtonBackgroundColor": "#FFFFFF"
+                      },
+                      "heading": {
+                        "text": "Just in: low prices!",
+                        "textSize": "small",
+                        "textColor": "#FFFFFF",
+                        "textColorMobile": "#0071DC",
+                        "textFontWeight": "regular"
+                      },
+                      "subheading": {
+                        "text": "Don’t miss tons of savings on 1,000s of awesome gifts.",
+                        "textColor": "#FFFFFF",
+                        "textColorMobile": "#0071DC"
+                      },
+                      "image": {
+                        "mobileImage": {
+                          "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-1d90/k2-_36ac97b6-844a-4ad5-91e3-0dfef0327a12.v1.jpg",
+                          "alt": "Sharper Image Powerboost Deep Tissue Percussion Massager Full Body Massage Gun, with five Interchangeable Attachments in Black was ninety-nine dollars and ninety-seven cents, is now seventy-five dollars.",
+                          "assetId": "7d235296-3594-4675-b51e-8f6ec0a30316",
+                          "uid": "wRaagVk6",
+                          "clickThrough": null
+                        },
+                        "desktopImage": {
+                          "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-1d90/k2-_36ac97b6-844a-4ad5-91e3-0dfef0327a12.v1.jpg",
+                          "alt": "Sharper Image Powerboost Deep Tissue Percussion Massager Full Body Massage Gun, with five Interchangeable Attachments in Black was ninety-nine dollars and ninety-seven cents, is now seventy-five dollars.",
+                          "assetId": "7d235296-3594-4675-b51e-8f6ec0a30316",
+                          "uid": "W65YJTu_",
+                          "clickThrough": null
+                        }
+                      },
+                      "eyebrow": null,
+                      "detailsView": {
+                        "backgroundColor": "#FFFFFF",
+                        "alignment": "left",
+                        "isTransparent": "True"
+                      },
+                      "links": null,
+                      "legalDisclosure": null,
+                      "sponsoredLabel": null,
+                      "logo": null,
+                      "enableLazyLoad": null
+                    },
+                    {
+                      "povStyle": "ctaButton",
+                      "ctaButton": {
+                        "button": {
+                          "linkText": "Shop now",
+                          "title": "Shop now",
+                          "uid": "F99_RiNU",
+                          "clickThrough": { "value": "/search?q=hanukkah" }
+                        },
+                        "textColor": "#000000",
+                        "ctaButtonBackgroundColor": "#FFFFFF"
+                      },
+                      "heading": {
+                        "text": "Celebrate Hanukkah",
+                        "textSize": "small",
+                        "textColor": "#FFFFFF",
+                        "textColorMobile": "#0071DC",
+                        "textFontWeight": "regular"
+                      },
+                      "subheading": {
+                        "text": "Menorahs, dreidels, food, gifts \u0026 more.",
+                        "textColor": "#FFFFFF",
+                        "textColorMobile": "#0071DC"
+                      },
+                      "image": {
+                        "mobileImage": {
+                          "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-a619/k2-_bff9c952-a636-41fb-bd2f-42b9e95b0692.v1.jpg",
+                          "alt": "A black menorah with clear glass lights is shown next to a blue and white dreidel and a blue moose plushie.��",
+                          "assetId": "d772aa14-2d91-4d87-9012-78104484a1d8",
+                          "uid": "REc_qUmm",
+                          "clickThrough": null
+                        },
+                        "desktopImage": {
+                          "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-a619/k2-_bff9c952-a636-41fb-bd2f-42b9e95b0692.v1.jpg",
+                          "alt": "A black menorah with clear glass lights is shown next to a blue and white dreidel and a blue moose plushie.",
+                          "assetId": "d772aa14-2d91-4d87-9012-78104484a1d8",
+                          "uid": "2E3eIgZn",
+                          "clickThrough": null
+                        }
+                      },
+                      "eyebrow": null,
+                      "detailsView": {
+                        "backgroundColor": "#FFFFFF",
+                        "alignment": "left",
+                        "isTransparent": "True"
+                      },
+                      "links": null,
+                      "legalDisclosure": null,
+                      "sponsoredLabel": null,
+                      "logo": null,
+                      "enableLazyLoad": "True"
+                    },
+                    {
+                      "povStyle": "ctaButton",
+                      "ctaButton": {
+                        "button": {
+                          "linkText": "Shop now",
+                          "title": "Shop now",
+                          "uid": "t8hmTvE0",
+                          "clickThrough": {
+                            "value": "/cp/groceries-essentials/1735450"
+                          }
+                        },
+                        "textColor": "#000000",
+                        "ctaButtonBackgroundColor": "#FFFFFF"
+                      },
+                      "heading": {
+                        "text": "Holiday groceries",
+                        "textSize": "small",
+                        "textColor": "#2E2F32",
+                        "textColorMobile": "#2E2F32",
+                        "textFontWeight": "regular"
+                      },
+                      "subheading": {
+                        "text": "Get pickup \u0026 delivery on seasonal faves.",
+                        "textColor": "#2E2F32",
+                        "textColorMobile": "#2E2F32"
+                      },
+                      "image": {
+                        "mobileImage": {
+                          "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-ebdb/k2-_47e8f3d7-cc25-4c4a-bb35-a47b2883766c.v1.jpg",
+                          "alt": "Great Value holiday gingerbread man baking kit is shown next to a plate of decorated cooked gingerbread men and an assortment of chocolate chip cookies.��",
+                          "assetId": "1896369f-f343-452f-946c-b538b88fba9b",
+                          "uid": "QOmMaEqo",
+                          "clickThrough": null
+                        },
+                        "desktopImage": {
+                          "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-ebdb/k2-_47e8f3d7-cc25-4c4a-bb35-a47b2883766c.v1.jpg",
+                          "alt": "Great Value holiday gingerbread man baking kit is shown next to a plate of decorated cooked gingerbread men and an assortment of chocolate chip cookies.��",
+                          "assetId": "1896369f-f343-452f-946c-b538b88fba9b",
+                          "uid": "uPvKyohe",
+                          "clickThrough": null
+                        }
+                      },
+                      "eyebrow": {
+                        "text": null,
+                        "textColor": "#2E2F32",
+                        "textColorMobile": "#2E2F32",
+                        "textFontWeight": "regular"
+                      },
+                      "detailsView": {
+                        "backgroundColor": "#FFFFFF",
+                        "alignment": "left",
+                        "isTransparent": "True"
+                      },
+                      "links": null,
+                      "legalDisclosure": null,
+                      "sponsoredLabel": null,
+                      "logo": null,
+                      "enableLazyLoad": "True"
+                    },
+                    {
+                      "povStyle": "ctaButton",
+                      "ctaButton": {
+                        "button": {
+                          "linkText": "Shop now",
+                          "title": "Shop now",
+                          "uid": "eXsob9rk",
+                          "clickThrough": { "value": "/shop/deals/flash-picks" }
+                        },
+                        "textColor": "#000000",
+                        "ctaButtonBackgroundColor": "#FFFFFF"
+                      },
+                      "heading": {
+                        "text": "Up to 65% off",
+                        "textSize": "small",
+                        "textColor": "#2e2f32",
+                        "textColorMobile": "#2e2f32",
+                        "textFontWeight": "regular"
+                      },
+                      "subheading": {
+                        "text": "New savings every week! Hurry to score low, low prices.",
+                        "textColor": "#2e2f32",
+                        "textColorMobile": "#2e2f32"
+                      },
+                      "image": {
+                        "mobileImage": {
+                          "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-496d/k2-_617b5c21-96d7-4589-962c-6be4129f40d4.v1.jpg",
+                          "alt": "Bright starburst of light on a yellow background with the words “Flash Picks” in the middle of the light burst.",
+                          "assetId": "34ff02f2-596a-493b-9e29-f3b7aecb2c3f",
+                          "uid": "v8T6eUDe",
+                          "clickThrough": null
+                        },
+                        "desktopImage": {
+                          "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-496d/k2-_617b5c21-96d7-4589-962c-6be4129f40d4.v1.jpg",
+                          "alt": "Bright starburst of light on a yellow background with the words “Flash Picks” in the middle of the light burst.",
+                          "assetId": "34ff02f2-596a-493b-9e29-f3b7aecb2c3f",
+                          "uid": "2B8I9kWG",
+                          "clickThrough": null
+                        }
+                      },
+                      "eyebrow": null,
+                      "detailsView": {
+                        "backgroundColor": "#F5F5F6",
+                        "alignment": "left",
+                        "isTransparent": "True"
+                      },
+                      "links": null,
+                      "legalDisclosure": null,
+                      "sponsoredLabel": null,
+                      "logo": null,
+                      "enableLazyLoad": "True"
+                    },
+                    {
+                      "povStyle": "ctaButton",
+                      "ctaButton": {
+                        "button": {
+                          "linkText": "Try free for 30 days",
+                          "title": "Try free for 30 days",
+                          "uid": "bkedYArW",
+                          "clickThrough": {
+                            "value": "https://www.walmart.com/plus?povid=wpl_acq_pov_1300item\u0026athcpid=ae368cbf-1101-4ce0-ba0a-e9de3118c801\u0026athpgid=AthenaHomepageDesktop\u0026athznid=athenaModuleZone\u0026athmtid=AthenaHeroPov\u0026athtvid=4\u0026athena=true\u0026athstid=CS100%7CCS041\u0026athguid=Gg2Cck7QRihWzkjl5JVn3VXjxMjiWP826l6h\u0026athwpid=0"
+                          }
+                        },
+                        "textColor": "#000000",
+                        "ctaButtonBackgroundColor": "#FFFFFF"
+                      },
+                      "heading": {
+                        "text": "You can save $1,300+ a year!*",
+                        "textSize": "small",
+                        "textColor": "#0071DC",
+                        "textColorMobile": "#0071DC",
+                        "textFontWeight": "regular"
+                      },
+                      "subheading": {
+                        "text": "Start saving with free delivery, Walmart Rewards \u0026 more",
+                        "textColor": "#0071DC",
+                        "textColorMobile": "#0071DC"
+                      },
+                      "image": {
+                        "mobileImage": {
+                          "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-c298/k2-_dac82e62-cfa9-48f7-8814-8f5a023b41aa.v1.jpg",
+                          "alt": "Free shipping, no order min.*",
+                          "assetId": "a37ae282-c88e-4625-a964-e7a5787965a6",
+                          "uid": "vS-B-_AI",
+                          "clickThrough": null
+                        },
+                        "desktopImage": {
+                          "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-c298/k2-_dac82e62-cfa9-48f7-8814-8f5a023b41aa.v1.jpg",
+                          "alt": "Free shipping, no order min.*",
+                          "assetId": "a37ae282-c88e-4625-a964-e7a5787965a6",
+                          "uid": "tQo3sD8S",
+                          "clickThrough": null
+                        }
+                      },
+                      "eyebrow": {
+                        "text": "Join Walmart+",
+                        "textColor": "#0071DC",
+                        "textColorMobile": "#0071DC",
+                        "textFontWeight": "regular"
+                      },
+                      "detailsView": {
+                        "backgroundColor": "#F5F9FB",
+                        "alignment": "left",
+                        "isTransparent": "True"
+                      },
+                      "links": null,
+                      "legalDisclosure": {
+                        "regularText": "*Important details",
+                        "shortenedText": null,
+                        "textColor": "#0071DC",
+                        "textColorMobile": "#0071DC",
+                        "legalBottomSheetTitle": "Important details",
+                        "legalBottomSheetDescription": "*Compared against 2 deliveries/wk at non-member $7.95 fee + 2 Walmart.com orders under $35/wk at non-member $6.99 shipping fee. Restrictions apply. Reward quantities are limited. While supplies last. Eligible items subject to change."
+                      },
+                      "sponsoredLabel": null,
+                      "logo": null,
+                      "enableLazyLoad": null
+                    }
+                  ],
+                  "povCards": [
+                    {
+                      "povStyle": "ctaButton",
+                      "backgroundColor": "#FFFFFF",
+                      "isTransparent": true,
+                      "isContentCentered": false,
+                      "isRightCard": false,
+                      "isFullWidthImage": true,
+                      "image": {
+                        "url": "https://i5.walmartimages.com/dfw/4ff9c6c9-1d90/k2-_36ac97b6-844a-4ad5-91e3-0dfef0327a12.v1.jpg",
+                        "alt": "Sharper Image Powerboost Deep Tissue Percussion Massager Full Body Massage Gun, with five Interchangeable Attachments in Black was ninety-nine dollars and ninety-seven cents, is now seventy-five dollars.",
+                        "assetId": "7d235296-3594-4675-b51e-8f6ec0a30316",
+                        "uid": "W65YJTu_"
+                      },
+                      "eyebrowCopy": null,
+                      "multiLinks": null,
+                      "buttonCTA": {
+                        "text": "Shop now",
+                        "link": "https://www.walmart.com/shop/deals?athcpid=78eb4297-ff08-4a3b-8995-3d5c2a06b1c7\u0026athpgid=AthenaHomepageDesktop\u0026athznid=athenaModuleZone\u0026athmtid=AthenaHeroPov\u0026athtvid=1\u0026athena=true\u0026athstid=CS011%7CCS041\u0026athftid=P0000\u0026athguid=Gg2Cck7QRihWzkjl5JVn3VXjxMjiWP826l6h",
+                        "textColor": "#000000",
+                        "bgColor": "#FFFFFF",
+                        "uid": "JCde94Ni"
+                      },
+                      "heading": {
+                        "text": "Just in: low prices!",
+                        "textSize": "small",
+                        "textColor": "#FFFFFF",
+                        "textColorMobile": "#0071DC",
+                        "textFontWeight": "regular",
+                        "size": "small"
+                      },
+                      "subHeading": {
+                        "text": "Don’t miss tons of savings on 1,000s of awesome gifts.",
+                        "textColor": "#FFFFFF",
+                        "textColorMobile": "#0071DC"
+                      },
+                      "enableLazyLoad": false
+                    },
+                    {
+                      "povStyle": "ctaButton",
+                      "backgroundColor": "#FFFFFF",
+                      "isTransparent": true,
+                      "isContentCentered": false,
+                      "isRightCard": false,
+                      "isFullWidthImage": true,
+                      "image": {
+                        "url": "https://i5.walmartimages.com/dfw/4ff9c6c9-a619/k2-_bff9c952-a636-41fb-bd2f-42b9e95b0692.v1.jpg",
+                        "alt": "A black menorah with clear glass lights is shown next to a blue and white dreidel and a blue moose plushie.",
+                        "assetId": "d772aa14-2d91-4d87-9012-78104484a1d8",
+                        "uid": "2E3eIgZn"
+                      },
+                      "eyebrowCopy": null,
+                      "multiLinks": null,
+                      "buttonCTA": {
+                        "text": "Shop now",
+                        "link": "/search?q=hanukkah",
+                        "textColor": "#000000",
+                        "bgColor": "#FFFFFF",
+                        "uid": "F99_RiNU"
+                      },
+                      "heading": {
+                        "text": "Celebrate Hanukkah",
+                        "textSize": "small",
+                        "textColor": "#FFFFFF",
+                        "textColorMobile": "#0071DC",
+                        "textFontWeight": "regular",
+                        "size": "small"
+                      },
+                      "subHeading": {
+                        "text": "Menorahs, dreidels, food, gifts \u0026 more.",
+                        "textColor": "#FFFFFF",
+                        "textColorMobile": "#0071DC"
+                      },
+                      "enableLazyLoad": true
+                    },
+                    {
+                      "povStyle": "ctaButton",
+                      "backgroundColor": "#FFFFFF",
+                      "isTransparent": true,
+                      "isContentCentered": false,
+                      "isRightCard": false,
+                      "isFullWidthImage": true,
+                      "image": {
+                        "url": "https://i5.walmartimages.com/dfw/4ff9c6c9-ebdb/k2-_47e8f3d7-cc25-4c4a-bb35-a47b2883766c.v1.jpg",
+                        "alt": "Great Value holiday gingerbread man baking kit is shown next to a plate of decorated cooked gingerbread men and an assortment of chocolate chip cookies.��",
+                        "assetId": "1896369f-f343-452f-946c-b538b88fba9b",
+                        "uid": "uPvKyohe"
+                      },
+                      "eyebrowCopy": {
+                        "text": null,
+                        "textColor": "#2E2F32",
+                        "textColorMobile": "#2E2F32",
+                        "textFontWeight": "regular"
+                      },
+                      "multiLinks": null,
+                      "buttonCTA": {
+                        "text": "Shop now",
+                        "link": "/cp/groceries-essentials/1735450",
+                        "textColor": "#000000",
+                        "bgColor": "#FFFFFF",
+                        "uid": "t8hmTvE0"
+                      },
+                      "heading": {
+                        "text": "Holiday groceries",
+                        "textSize": "small",
+                        "textColor": "#2E2F32",
+                        "textColorMobile": "#2E2F32",
+                        "textFontWeight": "regular",
+                        "size": "small"
+                      },
+                      "subHeading": {
+                        "text": "Get pickup \u0026 delivery on seasonal faves.",
+                        "textColor": "#2E2F32",
+                        "textColorMobile": "#2E2F32"
+                      },
+                      "enableLazyLoad": true
+                    },
+                    {
+                      "povStyle": "ctaButton",
+                      "backgroundColor": "#F5F5F6",
+                      "isTransparent": true,
+                      "isContentCentered": false,
+                      "isRightCard": false,
+                      "isFullWidthImage": true,
+                      "image": {
+                        "url": "https://i5.walmartimages.com/dfw/4ff9c6c9-496d/k2-_617b5c21-96d7-4589-962c-6be4129f40d4.v1.jpg",
+                        "alt": "Bright starburst of light on a yellow background with the words “Flash Picks” in the middle of the light burst.",
+                        "assetId": "34ff02f2-596a-493b-9e29-f3b7aecb2c3f",
+                        "uid": "2B8I9kWG"
+                      },
+                      "eyebrowCopy": null,
+                      "multiLinks": null,
+                      "buttonCTA": {
+                        "text": "Shop now",
+                        "link": "/shop/deals/flash-picks",
+                        "textColor": "#000000",
+                        "bgColor": "#FFFFFF",
+                        "uid": "eXsob9rk"
+                      },
+                      "heading": {
+                        "text": "Up to 65% off",
+                        "textSize": "small",
+                        "textColor": "#2e2f32",
+                        "textColorMobile": "#2e2f32",
+                        "textFontWeight": "regular",
+                        "size": "small"
+                      },
+                      "subHeading": {
+                        "text": "New savings every week! Hurry to score low, low prices.",
+                        "textColor": "#2e2f32",
+                        "textColorMobile": "#2e2f32"
+                      },
+                      "enableLazyLoad": true
+                    },
+                    {
+                      "povStyle": "ctaButton",
+                      "backgroundColor": "#F5F9FB",
+                      "isTransparent": true,
+                      "isContentCentered": false,
+                      "isRightCard": false,
+                      "isFullWidthImage": true,
+                      "image": {
+                        "url": "https://i5.walmartimages.com/dfw/4ff9c6c9-c298/k2-_dac82e62-cfa9-48f7-8814-8f5a023b41aa.v1.jpg",
+                        "alt": "Free shipping, no order min.*",
+                        "assetId": "a37ae282-c88e-4625-a964-e7a5787965a6",
+                        "uid": "tQo3sD8S"
+                      },
+                      "eyebrowCopy": {
+                        "text": "Join Walmart+",
+                        "textColor": "#0071DC",
+                        "textColorMobile": "#0071DC",
+                        "textFontWeight": "regular"
+                      },
+                      "multiLinks": null,
+                      "legalCopy": {
+                        "regularText": "*Important details",
+                        "shortText": null,
+                        "modalTitle": "Important details",
+                        "modalContent": "*Compared against 2 deliveries/wk at non-member $7.95 fee + 2 Walmart.com orders under $35/wk at non-member $6.99 shipping fee. Restrictions apply. Reward quantities are limited. While supplies last. Eligible items subject to change.",
+                        "textColor": "#0071DC",
+                        "textColorMobile": "#0071DC"
+                      },
+                      "buttonCTA": {
+                        "text": "Try free for 30 days",
+                        "link": "https://www.walmart.com/plus?povid=wpl_acq_pov_1300item\u0026athcpid=ae368cbf-1101-4ce0-ba0a-e9de3118c801\u0026athpgid=AthenaHomepageDesktop\u0026athznid=athenaModuleZone\u0026athmtid=AthenaHeroPov\u0026athtvid=4\u0026athena=true\u0026athstid=CS100%7CCS041\u0026athguid=Gg2Cck7QRihWzkjl5JVn3VXjxMjiWP826l6h\u0026athwpid=0",
+                        "textColor": "#000000",
+                        "bgColor": "#FFFFFF",
+                        "uid": "bkedYArW"
+                      },
+                      "heading": {
+                        "text": "You can save $1,300+ a year!*",
+                        "textSize": "small",
+                        "textColor": "#0071DC",
+                        "textColorMobile": "#0071DC",
+                        "textFontWeight": "regular",
+                        "size": "small"
+                      },
+                      "subHeading": {
+                        "text": "Start saving with free delivery, Walmart Rewards \u0026 more",
+                        "textColor": "#0071DC",
+                        "textColorMobile": "#0071DC"
+                      },
+                      "enableLazyLoad": false
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "HubSpoke 2: 2x2 Module - Even more low prices: Beauty/ Patio \u0026 Garden/ Sports \u0026 Outdoors/ Flash Picks - Desktop - 12.6.22",
+                "type": "HubSpokes2x2",
+                "version": 8,
+                "status": "published",
+                "schedule": {
+                  "start": null,
+                  "end": "2022-12-12T17:00Z",
+                  "priority": 3,
+                  "expEnabled": false
+                },
+                "triggers": [
+                  {
+                    "pageType": "HomePageDesktop",
+                    "pageId": null,
+                    "zone": "contentZone13",
+                    "inheritable": false
+                  }
+                ],
+                "publishedDate": 1670514562913,
+                "moduleId": "9c6cf001-c512-42ec-9466-23f3cad86f78",
+                "module_id": "9c6cf001-c512-42ec-9466-23f3cad86f78",
+                "matchedTrigger": {
+                  "pageType": "HomePageDesktop",
+                  "pageId": null,
+                  "zone": "contentZone13",
+                  "inheritable": false
+                },
+                "configs": {
+                  "__typename": "TempoWM_GLASSWWWHubSpokes2x2Configs",
+                  "headingText": "Even more low prices",
+                  "categories2x2": [
+                    {
+                      "name": "Up to 30% off beauty",
+                      "image": {
+                        "alt": "Shop up to thirty percent off beauty",
+                        "assetId": "92e2b259-248d-4245-8d79-c9565e5ce1b5",
+                        "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-8390/k2-_34c76b49-daf3-41ec-b70e-107c917158f7.v1.jpg",
+                        "clickThrough": {
+                          "value": "/shop/deals/beauty-and-grooming"
+                        }
+                      }
+                    },
+                    {
+                      "name": "Up to 40% off patio \u0026 garden",
+                      "image": {
+                        "alt": "Shop up to forty percent off patio and garden",
+                        "assetId": "abbfb281-bb38-4ed5-8de5-614e8bfb9936",
+                        "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-3334/k2-_e6aadab3-4257-4088-b58e-3414f8f4815a.v1.jpg",
+                        "clickThrough": {
+                          "value": "/shop/deals/patio-and-garden"
+                        }
+                      }
+                    },
+                    {
+                      "name": "Up to 40% off sports \u0026 outdoors",
+                      "image": {
+                        "alt": "Shop up to forty percent off sports and outdoors",
+                        "assetId": "cc9db2f2-1489-442e-a1be-60aca02d097b",
+                        "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-ea46/k2-_6a71fc01-02b7-433f-b82b-628bd2622e77.v1.jpg",
+                        "clickThrough": {
+                          "value": "/shop/deals/sports-and-outdoors"
+                        }
+                      }
+                    },
+                    {
+                      "name": "Flash Picks",
+                      "image": {
+                        "alt": "Shop Flash Picks",
+                        "assetId": "9773a0ab-d68d-4e36-a326-1b3f066c6fe6",
+                        "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-6b58/k2-_81c498eb-1d50-4cf0-9631-c4d3b11ce1aa.v1.jpg",
+                        "clickThrough": { "value": "/shop/deals/flash-picks" }
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Marquee Display Ad BTF HP",
+                "type": "MarqueeDisplayAd",
+                "version": 3,
+                "status": "published",
+                "schedule": {
+                  "start": null,
+                  "end": null,
+                  "priority": 1,
+                  "expEnabled": false
+                },
+                "triggers": [
+                  {
+                    "pageType": "HomePageDesktop",
+                    "pageId": null,
+                    "zone": "contentZone31",
+                    "inheritable": false
+                  }
+                ],
+                "publishedDate": 1666129123147,
+                "moduleId": "6b4c3815-357a-4d19-8c10-7b255d6e5fd7",
+                "module_id": "6b4c3815-357a-4d19-8c10-7b255d6e5fd7",
+                "matchedTrigger": {
+                  "pageType": "HomePageDesktop",
+                  "pageId": null,
+                  "zone": "contentZone31",
+                  "inheritable": false
+                },
+                "configs": {
+                  "__typename": "TempoWM_GLASSWWWMarqueeDisplayAdConfigs",
+                  "_rawConfigs": {
+                    "moduleLocation": "marquee2",
+                    "lazy": "3000"
+                  },
+                  "ad": null
+                }
+              },
+              {
+                "name": "Top departments - Service Banner Module - Desktop -11.14.22 (Electronics / Toys / Fashion)",
+                "type": "ServiceBanner",
+                "version": 2,
+                "status": "published",
+                "schedule": {
+                  "start": null,
+                  "end": null,
+                  "priority": 2,
+                  "expEnabled": false
+                },
+                "triggers": [
+                  {
+                    "pageType": "HomePageDesktop",
+                    "pageId": null,
+                    "zone": "contentZone7",
+                    "inheritable": false
+                  }
+                ],
+                "publishedDate": 1668464285305,
+                "moduleId": "da97012e-2f37-4f3a-8a24-c20ace747b0f",
+                "module_id": "da97012e-2f37-4f3a-8a24-c20ace747b0f",
+                "matchedTrigger": {
+                  "pageType": "HomePageDesktop",
+                  "pageId": null,
+                  "zone": "contentZone7",
+                  "inheritable": false
+                },
+                "configs": {
+                  "__typename": "TempoWM_GLASSWWWServiceBannerConfigsV1",
+                  "headingText": "Top departments",
+                  "viewAllLink": {
+                    "title": "View All",
+                    "uid": "W4nK3yPG",
+                    "clickThrough": {
+                      "value": "https://www.walmart.com/all-departments"
+                    }
+                  },
+                  "categories": [
+                    {
+                      "name": "Electronics",
+                      "image": {
+                        "alt": "Electronics",
+                        "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-604b/k2-_333bfe34-ceed-44bf-8771-d9eb485f1b74.v1.jpg",
+                        "assetId": "356aa99a-f9c5-4db8-edc4-e6438977304e",
+                        "uid": "nmO-3XPO",
+                        "clickThrough": {
+                          "value": "https://www.walmart.com/cp/3944"
+                        }
+                      }
+                    },
+                    {
+                      "name": "Toys",
+                      "image": {
+                        "alt": "Toys",
+                        "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-d3cd/k2-_b7498899-8f9d-441c-b170-53cd47e3215b.v1.jpg",
+                        "assetId": "287a7134-d656-4541-889c-d36cb3074f7c",
+                        "uid": "tRSMp3ZK",
+                        "clickThrough": {
+                          "value": "https://www.walmart.com/cp/toys/4171"
+                        }
+                      }
+                    },
+                    {
+                      "name": "Fashion",
+                      "image": {
+                        "alt": "Fashion",
+                        "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-7cc4/k2-_0125fcff-d6ae-459c-b7ab-95c1663c54ae.v1.jpg",
+                        "assetId": "39d1ab60-e429-4a34-832d-077227339a80",
+                        "uid": "8JhenMcU",
+                        "clickThrough": {
+                          "value": "https://www.walmart.com/cp/5438"
+                        }
+                      }
+                    }
+                  ]
+                }
+              },
+              {
+                "name": "Walmart Plus - Evergreen Banner - Desktop - 6/5/22",
+                "type": "WalmartPlusBanner",
+                "version": 12,
+                "status": "published",
+                "schedule": {
+                  "start": null,
+                  "end": null,
+                  "priority": 3,
+                  "expEnabled": false
+                },
+                "triggers": [
+                  {
+                    "pageType": "HomePageDesktop",
+                    "pageId": null,
+                    "zone": "contentZone15",
+                    "inheritable": false
+                  }
+                ],
+                "publishedDate": 1661399565134,
+                "moduleId": "faa5e36c-9858-4b1b-a953-d7c78eca5351",
+                "module_id": "faa5e36c-9858-4b1b-a953-d7c78eca5351",
+                "matchedTrigger": {
+                  "pageType": "HomePageDesktop",
+                  "pageId": null,
+                  "zone": "contentZone15",
+                  "inheritable": false
+                },
+                "configs": {
+                  "__typename": "TempoWM_GLASSWWWWalmartPlusBannerConfigsV1",
+                  "headingText": "Members get free shipping with no order minimum!",
+                  "disclaimer": "Terms apply",
+                  "ctaLink": {
+                    "title": "Join Walmart+",
+                    "clickThrough": {
+                      "value": "https://www.walmart.com/plus?povid=wpl_pov_gm_ACQFSNM6_Skinny\u0026athcpid=e51b7e44-5f43-4e54-a33a-45b7b17ac406\u0026athpgid=AthenaHomepageDesktop\u0026athznid=athenaModuleZone\u0026athmtid=AthenaWalmartPlusBanner\u0026athtvid=5\u0026athena=true\u0026athstid=CS100\u0026athguid=Gg2Cck7QRihWzkjl5JVn3VXjxMjiWP826l6h\u0026athwpid=0"
+                    }
+                  }
+                }
+              }
+            ],
+            "layouts": [
+              {
+                "id": "enableMiniHeroPOV",
+                "layout": {
+                  "type": "enableMiniHeroPOV",
+                  "name": "Home Page Desktop Mini hero-pov",
+                  "definition": {
+                    "type": "container",
+                    "flow": "vertical",
+                    "content": [
+                      {
+                        "type": "container",
+                        "flow": "vertical",
+                        "content": {
+                          "type": "slot",
+                          "id": "topContent",
+                          "mapping": [
+                            {
+                              "type": "ZONE",
+                              "options": { "refId": "contentZone1" }
+                            },
+                            {
+                              "type": "ZONE",
+                              "options": { "refId": "contentZone3" }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "type": "container",
+                        "flow": "horizontal",
+                        "content": [
+                          {
+                            "type": "container",
+                            "flow": "vertical",
+                            "style": { "gridColumns": 8 },
+                            "content": {
+                              "type": "slot",
+                              "id": "topLeftContent",
+                              "mapping": [
+                                {
+                                  "type": "ZONE",
+                                  "options": { "refId": "contentZone2" }
+                                }
+                              ]
+                            }
+                          },
+                          {
+                            "type": "container",
+                            "flow": "vertical",
+                            "style": { "gridColumns": 4 },
+                            "content": {
+                              "type": "slot",
+                              "id": "topRightContent",
+                              "mapping": [
+                                {
+                                  "type": "ZONE",
+                                  "options": { "refId": "contentZone10" }
+                                },
+                                {
+                                  "type": "ZONE",
+                                  "options": { "refId": "contentZone11" }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "type": "container",
+                        "flow": "horizontal",
+                        "content": [
+                          {
+                            "type": "container",
+                            "flow": "vertical",
+                            "style": { "gridColumns": 4 },
+                            "content": {
+                              "type": "slot",
+                              "id": "middleLeftContent",
+                              "mapping": [
+                                {
+                                  "type": "ZONE",
+                                  "options": { "refId": "contentZone4" }
+                                },
+                                {
+                                  "type": "ZONE",
+                                  "options": { "refId": "contentZone5" }
+                                },
+                                {
+                                  "type": "ZONE",
+                                  "options": { "refId": "contentZone6" }
+                                },
+                                {
+                                  "type": "ZONE",
+                                  "options": { "refId": "contentZone7" }
+                                },
+                                {
+                                  "type": "ZONE",
+                                  "options": { "refId": "contentZone8" }
+                                },
+                                {
+                                  "type": "ZONE",
+                                  "options": { "refId": "contentZone9" }
+                                }
+                              ]
+                            }
+                          },
+                          {
+                            "type": "container",
+                            "flow": "vertical",
+                            "style": { "gridColumns": 4 },
+                            "content": {
+                              "type": "slot",
+                              "id": "middleCenterContent",
+                              "mapping": [
+                                {
+                                  "type": "ZONE",
+                                  "options": { "refId": "contentZone12" }
+                                }
+                              ]
+                            }
+                          },
+                          {
+                            "type": "container",
+                            "flow": "vertical",
+                            "style": { "gridColumns": 4 },
+                            "content": {
+                              "type": "slot",
+                              "id": "middleRightContent",
+                              "mapping": [
+                                {
+                                  "type": "ZONE",
+                                  "options": { "refId": "contentZone13" }
+                                },
+                                {
+                                  "type": "ZONE",
+                                  "options": { "refId": "contentZone14" }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "type": "container",
+                        "flow": "vertical",
+                        "content": {
+                          "type": "slot",
+                          "id": "bottomContent",
+                          "mapping": [
+                            {
+                              "type": "EXTERNAL",
+                              "options": {
+                                "refId": "atfMarker",
+                                "tempoLabel": "ATF Marker",
+                                "displayInTempo": true
+                              }
+                            },
+                            {
+                              "type": "ZONE",
+                              "options": { "refId": "contentZone15" }
+                            },
+                            {
+                              "type": "ZONE",
+                              "options": { "refId": "contentZone16" }
+                            },
+                            {
+                              "type": "ZONE",
+                              "options": { "refId": "contentZone17" }
+                            },
+                            {
+                              "type": "ZONE",
+                              "options": { "refId": "contentZone18" }
+                            },
+                            {
+                              "type": "ZONE",
+                              "options": { "refId": "contentZone19" }
+                            },
+                            {
+                              "type": "ZONE",
+                              "options": { "refId": "contentZone20" }
+                            },
+                            {
+                              "type": "ZONE",
+                              "options": { "refId": "contentZone21" }
+                            },
+                            {
+                              "type": "ZONE",
+                              "options": { "refId": "contentZone22" }
+                            },
+                            {
+                              "type": "ZONE",
+                              "options": { "refId": "contentZone23" }
+                            },
+                            {
+                              "type": "ZONE",
+                              "options": { "refId": "contentZone24" }
+                            },
+                            {
+                              "type": "ZONE",
+                              "options": { "refId": "contentZone25" }
+                            },
+                            {
+                              "type": "ZONE",
+                              "options": { "refId": "contentZone26" }
+                            },
+                            {
+                              "type": "ZONE",
+                              "options": { "refId": "contentZone27" }
+                            },
+                            {
+                              "type": "ZONE",
+                              "options": { "refId": "contentZone28" }
+                            },
+                            {
+                              "type": "ZONE",
+                              "options": { "refId": "contentZone29" }
+                            },
+                            {
+                              "type": "ZONE",
+                              "options": { "refId": "contentZone30" }
+                            },
+                            {
+                              "type": "ZONE",
+                              "options": { "refId": "contentZone31" }
+                            },
+                            {
+                              "type": "ZONE",
+                              "options": { "refId": "contentZone32" }
+                            },
+                            {
+                              "type": "ZONE",
+                              "options": { "refId": "contentZone33" }
+                            },
+                            {
+                              "type": "ZONE",
+                              "options": { "refId": "contentZone34" }
+                            },
+                            {
+                              "type": "ZONE",
+                              "options": { "refId": "contentZone35" }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  "channel": {
+                    "id": "87674fe3-1742-4650-8e11-8d0c6acfe836",
+                    "status": "ACTIVE"
+                  },
+                  "version": "1.279",
+                  "status": "ACTIVE"
+                }
+              },
+              {
+                "id": "homeDesktop",
+                "layout": {
+                  "type": "homeDesktop",
+                  "name": "Home Page - Desktop",
+                  "definition": {
+                    "type": "container",
+                    "flow": "vertical",
+                    "content": [
+                      {
+                        "type": "container",
+                        "flow": "vertical",
+                        "content": {
+                          "type": "slot",
+                          "id": "topContent",
+                          "mapping": [
+                            {
+                              "type": "ZONE",
+                              "options": { "refId": "contentZone1" }
+                            },
+                            {
+                              "type": "ZONE",
+                              "options": { "refId": "contentZone2" }
+                            },
+                            {
+                              "type": "ZONE",
+                              "options": { "refId": "contentZone3" }
+                            }
+                          ]
+                        }
+                      },
+                      {
+                        "type": "container",
+                        "flow": "horizontal",
+                        "content": [
+                          {
+                            "type": "container",
+                            "flow": "vertical",
+                            "style": { "gridColumns": 4 },
+                            "content": {
+                              "type": "slot",
+                              "id": "middleLeftContent",
+                              "mapping": [
+                                {
+                                  "type": "ZONE",
+                                  "options": { "refId": "contentZone4" }
+                                },
+                                {
+                                  "type": "ZONE",
+                                  "options": { "refId": "contentZone5" }
+                                },
+                                {
+                                  "type": "ZONE",
+                                  "options": { "refId": "contentZone6" }
+                                },
+                                {
+                                  "type": "ZONE",
+                                  "options": { "refId": "contentZone7" }
+                                },
+                                {
+                                  "type": "ZONE",
+                                  "options": { "refId": "contentZone8" }
+                                },
+                                {
+                                  "type": "ZONE",
+                                  "options": { "refId": "contentZone9" }
+                                }
+                              ]
+                            }
+                          },
+                          {
+                            "type": "container",
+                            "flow": "vertical",
+                            "style": { "gridColumns": 4 },
+                            "content": {
+                              "type": "slot",
+                              "id": "middleCenterContent",
+                              "mapping": [
+                                {
+                                  "type": "ZONE",
+                                  "options": { "refId": "contentZone10" }
+                                },
+                                {
+                                  "type": "ZONE",
+                                  "options": { "refId": "contentZone11" }
+                                },
+                                {
+                                  "type": "ZONE",
+                                  "options": { "refId": "contentZone12" }
+                                }
+                              ]
+                            }
+                          },
+                          {
+                            "type": "container",
+                            "flow": "vertical",
+                            "style": { "gridColumns": 4 },
+                            "content": {
+                              "type": "slot",
+                              "id": "middleRightContent",
+                              "mapping": [
+                                {
+                                  "type": "ZONE",
+                                  "options": { "refId": "contentZone13" }
+                                },
+                                {
+                                  "type": "ZONE",
+                                  "options": { "refId": "contentZone14" }
+                                }
+                              ]
+                            }
+                          }
+                        ]
+                      },
+                      {
+                        "type": "container",
+                        "flow": "vertical",
+                        "content": {
+                          "type": "slot",
+                          "id": "bottomContent",
+                          "mapping": [
+                            {
+                              "type": "EXTERNAL",
+                              "options": {
+                                "refId": "atfMarker",
+                                "tempoLabel": "ATF Marker",
+                                "displayInTempo": true
+                              }
+                            },
+                            {
+                              "type": "ZONE",
+                              "options": { "refId": "contentZone15" }
+                            },
+                            {
+                              "type": "ZONE",
+                              "options": { "refId": "contentZone16" }
+                            },
+                            {
+                              "type": "ZONE",
+                              "options": { "refId": "contentZone17" }
+                            },
+                            {
+                              "type": "ZONE",
+                              "options": { "refId": "contentZone18" }
+                            },
+                            {
+                              "type": "ZONE",
+                              "options": { "refId": "contentZone19" }
+                            },
+                            {
+                              "type": "ZONE",
+                              "options": { "refId": "contentZone20" }
+                            },
+                            {
+                              "type": "ZONE",
+                              "options": { "refId": "contentZone21" }
+                            },
+                            {
+                              "type": "ZONE",
+                              "options": { "refId": "contentZone22" }
+                            },
+                            {
+                              "type": "ZONE",
+                              "options": { "refId": "contentZone23" }
+                            },
+                            {
+                              "type": "ZONE",
+                              "options": { "refId": "contentZone24" }
+                            },
+                            {
+                              "type": "ZONE",
+                              "options": { "refId": "contentZone25" }
+                            },
+                            {
+                              "type": "ZONE",
+                              "options": { "refId": "contentZone26" }
+                            },
+                            {
+                              "type": "ZONE",
+                              "options": { "refId": "contentZone27" }
+                            },
+                            {
+                              "type": "ZONE",
+                              "options": { "refId": "contentZone28" }
+                            },
+                            {
+                              "type": "ZONE",
+                              "options": { "refId": "contentZone29" }
+                            },
+                            {
+                              "type": "ZONE",
+                              "options": { "refId": "contentZone30" }
+                            },
+                            {
+                              "type": "ZONE",
+                              "options": { "refId": "contentZone31" }
+                            },
+                            {
+                              "type": "ZONE",
+                              "options": { "refId": "contentZone32" }
+                            },
+                            {
+                              "type": "ZONE",
+                              "options": { "refId": "contentZone33" }
+                            },
+                            {
+                              "type": "ZONE",
+                              "options": { "refId": "contentZone34" }
+                            },
+                            {
+                              "type": "ZONE",
+                              "options": { "refId": "contentZone35" }
+                            }
+                          ]
+                        }
+                      }
+                    ]
+                  },
+                  "channel": {
+                    "id": "87674fe3-1742-4650-8e11-8d0c6acfe836",
+                    "status": "ACTIVE"
+                  },
+                  "version": "1.279",
+                  "status": "ACTIVE"
+                }
+              }
+            ],
+            "pageMetadata": {
+              "adsPageConfig": { "povPriority": ["3", "2", "4"] },
+              "location": {
+                "city": "Austin",
+                "postalCode": "78729",
+                "stateOrProvinceCode": "TX",
+                "storeId": "1129"
+              },
+              "pageContext": {},
+              "p13nMetadata": "TFo09QAAAPAdeyJ1c2VkTW9kZWxzIjp7IkdsYXNzSG9tZXBhZ2VJdGVtTW9kdWxlcyI6WyIPAPAvU2hvd0Nhc2VfM2ViOTEzODUtOTkxYi00MTNiLTk0ZDMtOGY1NjNlOTM4NjUyX2l0ZW1zIl0sIkhlcm9Qb3ZGAGRBdGhlbmERAJBdfSwic2hvd25dAAFmAPAgNzM4Mzk2ODE3IiwiNzhlYjQyOTctZmYwOC00YTNiLTg5OTUtM2Q1YzJhMDZiMWMnAAUDAPAYYWUzNjhjYmYtMTEwMS00Y2UwLWJhMGEtZTlkZTMxMThjODAxIl19",
+              "lazyModules": [
+                {
+                  "name": "(Default # 4: manual shelf - Zone 27) Desktop - Item Carousel - New beauty - 2.4.22",
+                  "type": "ItemCarousel",
+                  "version": 2,
+                  "status": "published",
+                  "schedule": {
+                    "start": "2022-02-04T22:00Z",
+                    "end": null,
+                    "priority": 3,
+                    "expEnabled": false
+                  },
+                  "triggers": [
+                    {
+                      "pageType": "HomePageDesktop",
+                      "pageId": null,
+                      "zone": "contentZone28",
+                      "inheritable": false
+                    }
+                  ],
+                  "publishedDate": 1666129171006,
+                  "moduleId": "14df2117-9de8-4048-9a10-ba1d50617087",
+                  "module_id": "14df2117-9de8-4048-9a10-ba1d50617087",
+                  "matchedTrigger": {
+                    "pageType": "HomePageDesktop",
+                    "pageId": null,
+                    "zone": "contentZone28",
+                    "inheritable": false
+                  },
+                  "configs": {
+                    "__typename": "TempoWM_GLASSWWWItemCarouselConfigsV1",
+                    "type": null,
+                    "title": "New in beauty",
+                    "subTitle": null,
+                    "viewAllLink": {
+                      "linkText": "View all",
+                      "title": "View all",
+                      "clickThrough": {
+                        "type": "url",
+                        "value": "/browse/new-beauty/0/0/?_refineresult=true\u0026_be_shelf_id=4821493\u0026search_sort=100\u0026facet=shelf_id:4821493"
+                      }
+                    },
+                    "spBeaconInfo": null,
+                    "tileOptions": null,
+                    "productsConfig": { "products": null }
+                  }
+                },
+                {
+                  "name": "(Default #1: manual shelf - Zone 16) Desktop - Item Carousel - Reset Your Bedroom - 5.2.22",
+                  "type": "ItemCarousel",
+                  "version": 6,
+                  "status": "published",
+                  "schedule": {
+                    "start": null,
+                    "end": null,
+                    "priority": 5,
+                    "expEnabled": false
+                  },
+                  "triggers": [
+                    {
+                      "pageType": "HomePageDesktop",
+                      "pageId": null,
+                      "zone": "contentZone18",
+                      "inheritable": false
+                    }
+                  ],
+                  "publishedDate": 1666129294145,
+                  "moduleId": "23b5e899-3f66-4df9-a4be-d9df2e130016",
+                  "module_id": "23b5e899-3f66-4df9-a4be-d9df2e130016",
+                  "matchedTrigger": {
+                    "pageType": "HomePageDesktop",
+                    "pageId": null,
+                    "zone": "contentZone18",
+                    "inheritable": false
+                  },
+                  "configs": {
+                    "__typename": "TempoWM_GLASSWWWItemCarouselConfigsV1",
+                    "type": null,
+                    "title": "Reset your bedroom",
+                    "subTitle": null,
+                    "viewAllLink": {
+                      "linkText": "View all",
+                      "title": "View all",
+                      "clickThrough": {
+                        "type": "url",
+                        "value": "/browse/home-bedroom-refresh/0/0?_refineresult=true\u0026_be_shelf_id=2766774\u0026search_sort=100\u0026facet=shelf_id%3A2766774"
+                      }
+                    },
+                    "spBeaconInfo": null,
+                    "tileOptions": null,
+                    "productsConfig": { "products": null }
+                  }
+                },
+                {
+                  "name": "(Default #2: manual shelf- Zone 22) Desktop - Item Carousel - Storage furniture - 2.4.22",
+                  "type": "ItemCarousel",
+                  "version": 2,
+                  "status": "published",
+                  "schedule": {
+                    "start": "2022-02-04T22:00Z",
+                    "end": null,
+                    "priority": 3,
+                    "expEnabled": false
+                  },
+                  "triggers": [
+                    {
+                      "pageType": "HomePageDesktop",
+                      "pageId": null,
+                      "zone": "contentZone23",
+                      "inheritable": false
+                    }
+                  ],
+                  "publishedDate": 1666129227227,
+                  "moduleId": "ec5f0c2a-0ca9-460f-b77f-389e631b7a36",
+                  "module_id": "ec5f0c2a-0ca9-460f-b77f-389e631b7a36",
+                  "matchedTrigger": {
+                    "pageType": "HomePageDesktop",
+                    "pageId": null,
+                    "zone": "contentZone23",
+                    "inheritable": false
+                  },
+                  "configs": {
+                    "__typename": "TempoWM_GLASSWWWItemCarouselConfigsV1",
+                    "type": null,
+                    "title": "Storage furniture",
+                    "subTitle": null,
+                    "viewAllLink": {
+                      "linkText": "View all",
+                      "title": "View all",
+                      "clickThrough": {
+                        "type": "url",
+                        "value": "/browse/home-get-organized/0/0?_refineresult=true\u0026_be_shelf_id=3837312\u0026search_sort=100\u0026facet=shelf_id%3A3837312"
+                      }
+                    },
+                    "spBeaconInfo": null,
+                    "tileOptions": null,
+                    "productsConfig": { "products": null }
+                  }
+                },
+                {
+                  "name": "(Default #3: manual shelf- Zone 25) Desktop - Item Carousel - New in Tech - 2.4.22",
+                  "type": "ItemCarousel",
+                  "version": 2,
+                  "status": "published",
+                  "schedule": {
+                    "start": "2022-02-04T22:00Z",
+                    "end": null,
+                    "priority": 3,
+                    "expEnabled": false
+                  },
+                  "triggers": [
+                    {
+                      "pageType": "HomePageDesktop",
+                      "pageId": null,
+                      "zone": "contentZone26",
+                      "inheritable": false
+                    }
+                  ],
+                  "publishedDate": 1666129194734,
+                  "moduleId": "347b4c12-2167-452c-806a-8810e75728ee",
+                  "module_id": "347b4c12-2167-452c-806a-8810e75728ee",
+                  "matchedTrigger": {
+                    "pageType": "HomePageDesktop",
+                    "pageId": null,
+                    "zone": "contentZone26",
+                    "inheritable": false
+                  },
+                  "configs": {
+                    "__typename": "TempoWM_GLASSWWWItemCarouselConfigsV1",
+                    "type": null,
+                    "title": "New in tech",
+                    "subTitle": null,
+                    "viewAllLink": {
+                      "linkText": "View all",
+                      "title": "View all",
+                      "clickThrough": {
+                        "type": "url",
+                        "value": "/browse/new-in-tech/0/0/?_refineresult=true\u0026_be_shelf_id=3124250\u0026search_sort=100\u0026facet=shelf_id:3124250"
+                      }
+                    },
+                    "spBeaconInfo": null,
+                    "tileOptions": null,
+                    "productsConfig": { "products": null }
+                  }
+                },
+                {
+                  "name": "2UP POV Cards Module - Brand new for you: Top Toy List/ Modern Moments - mWeb/Desktop - 11.30.22 (P13) - Image size: 838x470",
+                  "type": "POVCards",
+                  "version": 4,
+                  "status": "published",
+                  "schedule": {
+                    "start": null,
+                    "end": "2022-12-12T17:00Z",
+                    "priority": 3,
+                    "expEnabled": false
+                  },
+                  "triggers": [
+                    {
+                      "pageType": "HomePageDesktop",
+                      "pageId": null,
+                      "zone": "contentZone27",
+                      "inheritable": false
+                    },
+                    {
+                      "pageType": "Homepage",
+                      "pageId": null,
+                      "zone": "contentZone23",
+                      "inheritable": false
+                    }
+                  ],
+                  "publishedDate": 1670519467562,
+                  "moduleId": "6e5c8f20-cf8e-458f-bc65-7daed258a9dc",
+                  "module_id": "6e5c8f20-cf8e-458f-bc65-7daed258a9dc",
+                  "matchedTrigger": {
+                    "pageType": "HomePageDesktop",
+                    "pageId": null,
+                    "zone": "contentZone27",
+                    "inheritable": false
+                  },
+                  "configs": {
+                    "__typename": "TempoWM_GLASSWWWPOVCardsConfigsV1",
+                    "headingText": "Brand new for you",
+                    "viewAllLink": null,
+                    "imageAspectRatio": "regular",
+                    "cards": [
+                      {
+                        "headingText": "Top Toys List",
+                        "descriptionText": "Get a head start on the hottest gifts of the season!",
+                        "image": {
+                          "alt": "Top Toys List. Get a head start on the hottest gifts of the season! Shop now ",
+                          "assetId": "498e5b00-cf14-4996-b0aa-d56a4170e83f",
+                          "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-5ca1/k2-_c7331794-c164-4bf2-9194-bcc4535bb459.v1.jpg",
+                          "width": "838",
+                          "height": "470"
+                        },
+                        "link": {
+                          "clickThrough": { "value": "/shop/col/top-toys" },
+                          "linkText": "Shop now"
+                        }
+                      },
+                      {
+                        "headingText": "Modern Moments",
+                        "descriptionText": "Elevated style by Gerber, for your baby’s room. Only at Walmart.",
+                        "image": {
+                          "alt": "Modern Moments. Elevated style by Gerber, for your baby’s room. Only at Walmart. Shop now ",
+                          "assetId": "36ba6fe9-b49e-4546-834d-9a35b7e97e03",
+                          "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-a953/k2-_274a45d3-9399-43be-895c-7c7b87b18dd4.v1.jpg",
+                          "width": "838",
+                          "height": "470"
+                        },
+                        "link": {
+                          "clickThrough": {
+                            "value": "/browse/modern-in-moments-nursery/0/0/?_refineresult=true\u0026_be_shelf_id=8090810\u0026search_sort=100\u0026facet=shelf_id:8090810"
+                          },
+                          "linkText": "Shop now"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "2UP POV Cards Module - In season: OPD/ Meet Walmart+ InHome (default) - mWeb/Desktop - 11.30.22 (P13) - Image size: 838x470",
+                  "type": "POVCards",
+                  "version": 2,
+                  "status": "published",
+                  "schedule": {
+                    "start": null,
+                    "end": "2022-12-12T17:00Z",
+                    "priority": 3,
+                    "expEnabled": false
+                  },
+                  "triggers": [
+                    {
+                      "pageType": "Homepage",
+                      "pageId": null,
+                      "zone": "contentZone19",
+                      "inheritable": false
+                    },
+                    {
+                      "pageType": "HomePageDesktop",
+                      "pageId": null,
+                      "zone": "contentZone25",
+                      "inheritable": false
+                    }
+                  ],
+                  "publishedDate": 1670519332493,
+                  "moduleId": "26fd4385-2035-42e2-9e83-05eef33d4943",
+                  "module_id": "26fd4385-2035-42e2-9e83-05eef33d4943",
+                  "matchedTrigger": {
+                    "pageType": "HomePageDesktop",
+                    "pageId": null,
+                    "zone": "contentZone25",
+                    "inheritable": false
+                  },
+                  "configs": {
+                    "__typename": "TempoWM_GLASSWWWPOVCardsConfigsV1",
+                    "headingText": "In season",
+                    "viewAllLink": null,
+                    "imageAspectRatio": "regular",
+                    "cards": [
+                      {
+                        "headingText": "Curbside pickup",
+                        "descriptionText": "Score low-priced essentials online \u0026 pick up as soon as today.",
+                        "image": {
+                          "alt": "Curbside pickup. Get low-priced essentials online and pick up as soon as today. Shop now",
+                          "assetId": "95dee2f9-724d-4431-88cf-4794371c7806",
+                          "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-78a1/k2-_87508716-1cde-41ff-add5-fee8f101d357.v1.jpg",
+                          "width": "838",
+                          "height": "470"
+                        },
+                        "link": {
+                          "clickThrough": {
+                            "value": "/cp/household-essentials-pickup-delivery/6553238"
+                          },
+                          "linkText": "Shop now"
+                        }
+                      },
+                      {
+                        "headingText": "Meet Walmart+ InHome",
+                        "descriptionText": "Delivery where you want it, with no order fees, tips or markups!",
+                        "image": {
+                          "alt": "Meet Walmart+ InHome. Delivery where you want it, with no order fees, tips or markups! Start free trial",
+                          "assetId": "16133bd2-8dfb-4290-958a-5785ac0a468d",
+                          "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-ca82/k2-_b69ed659-b6a7-4fe5-8558-41f2e35bd942.v1.jpg",
+                          "width": "838",
+                          "height": "470"
+                        },
+                        "link": {
+                          "clickThrough": {
+                            "value": "https://inhome.walmart.com/?povid=wpl_inh_pov_lanuch"
+                          },
+                          "linkText": "Start free trial"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "3UP POV Cards Module - For you: Up to 50 Off Toys (Static)/ Floorcare Event MP (Static)/ Harvest Decor  (Default) - Desktop - 12.9.22  (P13) - Image size: 838x470",
+                  "type": "POVCards",
+                  "version": 5,
+                  "status": "published",
+                  "schedule": {
+                    "start": null,
+                    "end": "2022-12-12T17:00Z",
+                    "priority": 3,
+                    "expEnabled": false
+                  },
+                  "triggers": [
+                    {
+                      "pageType": "HomePageDesktop",
+                      "pageId": null,
+                      "zone": "contentZone20",
+                      "inheritable": false
+                    }
+                  ],
+                  "publishedDate": 1670617221674,
+                  "moduleId": "3dbdc2f7-6b6a-4dbf-a57b-6b063a8e39b6",
+                  "module_id": "3dbdc2f7-6b6a-4dbf-a57b-6b063a8e39b6",
+                  "matchedTrigger": {
+                    "pageType": "HomePageDesktop",
+                    "pageId": null,
+                    "zone": "contentZone20",
+                    "inheritable": false
+                  },
+                  "configs": {
+                    "__typename": "TempoWM_GLASSWWWPOVCardsConfigsV1",
+                    "headingText": "For you",
+                    "viewAllLink": null,
+                    "imageAspectRatio": "regular",
+                    "cards": [
+                      {
+                        "headingText": "Up to 50% off toys",
+                        "descriptionText": "Save on top brands that bring the joy.",
+                        "image": {
+                          "alt": "Up to fifty percent off toys. Save on top brands that bring the joy. Shop now",
+                          "assetId": "48217ec5-e078-419e-8a75-c0f70e61a23a",
+                          "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-49f6/k2-_1fc61b85-9f13-4734-947f-65d509b7cb97.v1.jpg",
+                          "width": "838",
+                          "height": "470"
+                        },
+                        "link": {
+                          "clickThrough": {
+                            "value": "/cp/toy-rollbacks/4030159"
+                          },
+                          "linkText": "Shop now"
+                        }
+                      },
+                      {
+                        "headingText": "Get flawless floors",
+                        "descriptionText": "The best brands to keep every surface clean.",
+                        "image": {
+                          "alt": "Roborock E4 Robot Vacuum Cleaner, Internal Route Plan with two thousand P A Strong Suction, Carpet Boost is shown on a blue background.",
+                          "assetId": "bc71a9e1-b942-4493-bd11-9fad8ab94307",
+                          "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-4a10/k2-_c82078df-6f74-4cc5-9054-58ca50491383.v1.jpg",
+                          "width": "838",
+                          "height": "470"
+                        },
+                        "link": {
+                          "clickThrough": {
+                            "value": "/shop/deals/up-to-50-percent-off-Key-Floorcare-Deals"
+                          },
+                          "linkText": "Shop now"
+                        }
+                      },
+                      {
+                        "headingText": "Cozy up your home",
+                        "descriptionText": "Warm accents \u0026 shades to start the season right.",
+                        "image": {
+                          "alt": "Fall decor from thirteen dollars. Cozy up your home. Warm accents and shades to start the season right. Shop now ",
+                          "assetId": "79537221-8f58-4f93-8b27-cf10fbf71504",
+                          "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-2957/k2-_9fdf6901-0905-4966-ae1a-64197f5c2149.v1.jpg",
+                          "width": "838",
+                          "height": "470"
+                        },
+                        "link": {
+                          "clickThrough": { "value": "/shop/fall-decor" },
+                          "linkText": "Shop now"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "3UP POV Cards Module - Health \u0026 wellness: At Home COVID Tests/ Vaccines \u0026 Immunizations/ Put your health first- Desktop/mWeb - 9.16.22",
+                  "type": "POVCards",
+                  "version": 3,
+                  "status": "published",
+                  "schedule": {
+                    "start": null,
+                    "end": null,
+                    "priority": 3,
+                    "expEnabled": false
+                  },
+                  "triggers": [
+                    {
+                      "pageType": "Homepage",
+                      "pageId": null,
+                      "zone": "contentZone27",
+                      "inheritable": false
+                    },
+                    {
+                      "pageType": "HomePageDesktop",
+                      "pageId": null,
+                      "zone": "contentZone29",
+                      "inheritable": false
+                    }
+                  ],
+                  "publishedDate": 1666129161897,
+                  "moduleId": "613228e6-1aba-4b15-92af-5db1f98e9616",
+                  "module_id": "613228e6-1aba-4b15-92af-5db1f98e9616",
+                  "matchedTrigger": {
+                    "pageType": "HomePageDesktop",
+                    "pageId": null,
+                    "zone": "contentZone29",
+                    "inheritable": false
+                  },
+                  "configs": {
+                    "__typename": "TempoWM_GLASSWWWPOVCardsConfigsV1",
+                    "headingText": "Health \u0026 wellness",
+                    "viewAllLink": null,
+                    "imageAspectRatio": "regular",
+                    "cards": [
+                      {
+                        "headingText": "At-home COVID-19 tests",
+                        "descriptionText": "Now available at Walmart.",
+                        "image": {
+                          "alt": "At-home COVID-19 tests. Now available at Walmart. Shop now",
+                          "assetId": "d5ff7705-f7d0-430b-8769-6e370c40cf40",
+                          "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-3432/k2-_12c7e138-42f9-4151-a531-10e8d1a3f5e2.v1.jpg",
+                          "width": "838",
+                          "height": "470"
+                        },
+                        "link": {
+                          "clickThrough": {
+                            "value": "/browse/health/covid-testing-kits/976760_1005860_542089_3092061"
+                          },
+                          "linkText": "Shop now"
+                        }
+                      },
+                      {
+                        "headingText": "Vaccines \u0026 more",
+                        "descriptionText": "Protect against the flu, COVID-19, shingles \u0026 other illnesses.",
+                        "image": {
+                          "alt": "Vaccines and more. Protect against the flu, COVID nineteen, shingles and other illnesses. Schedule now ",
+                          "assetId": "beaddb37-7299-413b-a187-a8b2e3d768a3",
+                          "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-f8d6/k2-_7f9ced9d-3ccf-4602-8a79-56f726caea64.v1.jpg",
+                          "width": "838",
+                          "height": "470"
+                        },
+                        "link": {
+                          "clickThrough": {
+                            "value": "/pharmacy/clinical-services/immunization?povid=HWS_HomePage_Pharmacy_Immunizations"
+                          },
+                          "linkText": "Schedule now"
+                        }
+                      },
+                      {
+                        "headingText": "Put your health first",
+                        "descriptionText": "Find medicine, vitamins, first aid, \u0026 more wellness picks.",
+                        "image": {
+                          "alt": " Put your health first. Find medicine, vitamins, first aid, and more wellness picks. Shop now",
+                          "assetId": "115844cb-9517-4cd2-9dd5-8a703085d1f3",
+                          "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-d7eb/k2-_feec3339-3120-45bf-9ce7-e1fad1c9eccd.v1.jpg",
+                          "width": "838",
+                          "height": "470"
+                        },
+                        "link": {
+                          "clickThrough": { "value": "/cp/health/976760" },
+                          "linkText": "Shop now"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "CSR POV Cards Module - Sharing our values:  Black \u0026 Unlimited/ Built for Better Planet  11.30.22",
+                  "type": "POVCards",
+                  "version": 1,
+                  "status": "published",
+                  "schedule": {
+                    "start": "2022-12-01T00:00Z",
+                    "end": null,
+                    "priority": 3,
+                    "expEnabled": false
+                  },
+                  "triggers": [
+                    {
+                      "pageType": "Homepage",
+                      "pageId": null,
+                      "zone": "contentZone28",
+                      "inheritable": false
+                    },
+                    {
+                      "pageType": "HomePageDesktop",
+                      "pageId": null,
+                      "zone": "contentZone30",
+                      "inheritable": false
+                    }
+                  ],
+                  "publishedDate": 1669661624193,
+                  "moduleId": "079bfda0-1e31-4f07-9712-fce0500a4b9e",
+                  "module_id": "079bfda0-1e31-4f07-9712-fce0500a4b9e",
+                  "matchedTrigger": {
+                    "pageType": "HomePageDesktop",
+                    "pageId": null,
+                    "zone": "contentZone30",
+                    "inheritable": false
+                  },
+                  "configs": {
+                    "__typename": "TempoWM_GLASSWWWPOVCardsConfigsV1",
+                    "headingText": "Sharing our values",
+                    "viewAllLink": null,
+                    "imageAspectRatio": "regular",
+                    "cards": [
+                      {
+                        "headingText": "Black \u0026 Unlimited",
+                        "descriptionText": "For who you are \u0026 who you want to be, we’re here.",
+                        "image": {
+                          "alt": "Black and unlimited. For who you are and who you want to be, we're here. Learn more",
+                          "assetId": "d8d4f322-c2cb-41bc-8200-06b58ed21ec2",
+                          "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-cab4/k2-_ea6b8c8c-36da-4fda-95aa-0bf5bf984a81.v1.jpg",
+                          "width": "838",
+                          "height": "470"
+                        },
+                        "link": {
+                          "clickThrough": {
+                            "value": "/cp/supporting-black-communities/5486926"
+                          },
+                          "linkText": "Explore more"
+                        }
+                      },
+                      {
+                        "headingText": "Built for Better",
+                        "descriptionText": "Built for Better products with environmental certifications.",
+                        "image": {
+                          "alt": "For the planet. Built for Better products with environmental certifications. Learn more",
+                          "assetId": "3b1f9c89-131b-4673-9538-3a6ea6c9318b",
+                          "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-f786/k2-_0749f48e-82aa-4d92-8ef2-946673f5f5f8.v1.jpg",
+                          "width": "838",
+                          "height": "470"
+                        },
+                        "link": {
+                          "clickThrough": { "value": "/cp/for-planet/1516441" },
+                          "linkText": "Learn more"
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "Capital One Banner Web Module - Desktop - 2.4.22 - Device: Desktop Only",
+                  "type": "CapitalOneBanner",
+                  "version": 4,
+                  "status": "published",
+                  "schedule": {
+                    "start": "2022-02-04T22:00Z",
+                    "end": null,
+                    "priority": 5,
+                    "expEnabled": false
+                  },
+                  "triggers": [
+                    {
+                      "pageType": "HomePageDesktop",
+                      "pageId": null,
+                      "zone": "contentZone22",
+                      "inheritable": false
+                    }
+                  ],
+                  "publishedDate": 1666129241510,
+                  "moduleId": "a0675492-eac0-4c43-a88e-598ac8548789",
+                  "module_id": "a0675492-eac0-4c43-a88e-598ac8548789",
+                  "matchedTrigger": {
+                    "pageType": "HomePageDesktop",
+                    "pageId": null,
+                    "zone": "contentZone22",
+                    "inheritable": false
+                  },
+                  "configs": {
+                    "__typename": "TempoWM_GLASSWWWCapitalOneBannerConfigsV1",
+                    "bannerBackgroundColor": "#FFFFFF",
+                    "primaryImage": {
+                      "alt": "Capital One",
+                      "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-4cbf/k2-_19bccbbb-b02e-43ca-b47f-54e066d59b36.v1.png"
+                    },
+                    "bannerCta": {
+                      "ctaLink": {
+                        "linkText": "Learn how",
+                        "title": "Learn how",
+                        "clickThrough": { "value": "/cp/632402" },
+                        "uid": "NmXAxPcF"
+                      },
+                      "textColor": "#000000"
+                    },
+                    "bannerText": [
+                      {
+                        "text": "Earn 5% cash back",
+                        "isBold": "True",
+                        "isUnderlined": "True",
+                        "underlinedColor": "#0071dc",
+                        "textColor": "#2e2f32"
+                      },
+                      {
+                        "text": "on Walmart.com.",
+                        "isBold": "False",
+                        "isUnderlined": "False",
+                        "underlinedColor": "#FFFFFF",
+                        "textColor": "#2e2f32"
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "Departments Grid Module - mWeb/Desktop - 9.1.22 (Product images)",
+                  "type": "DepartmentsGrid",
+                  "version": 5,
+                  "status": "published",
+                  "schedule": {
+                    "start": "2022-09-02T03:20Z",
+                    "end": null,
+                    "priority": 1,
+                    "expEnabled": false
+                  },
+                  "triggers": [
+                    {
+                      "pageType": "Homepage",
+                      "pageId": null,
+                      "zone": "contentZone14",
+                      "inheritable": false
+                    },
+                    {
+                      "pageType": "HomePageDesktop",
+                      "pageId": null,
+                      "zone": "contentZone21",
+                      "inheritable": false
+                    }
+                  ],
+                  "publishedDate": 1666129251557,
+                  "moduleId": "008694c8-1038-4c72-955f-225d905f7012",
+                  "module_id": "008694c8-1038-4c72-955f-225d905f7012",
+                  "matchedTrigger": {
+                    "pageType": "HomePageDesktop",
+                    "pageId": null,
+                    "zone": "contentZone21",
+                    "inheritable": false
+                  },
+                  "configs": {
+                    "__typename": "TempoWM_GLASSWWWDepartmentsGridConfigsV1",
+                    "headingText": "Your favorite departments",
+                    "viewAllLink": {
+                      "title": "View all",
+                      "uid": "bdHLpOav",
+                      "clickThrough": { "value": "/all-departments" }
+                    },
+                    "displayMode": "full",
+                    "categoriesHome": [
+                      {
+                        "name": "Grocery",
+                        "image": {
+                          "alt": "Grocery",
+                          "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-52ed/k2-_5cfe89bc-e57c-4519-b6ee-d8ce7f4b83c5.v1.jpg",
+                          "assetId": "7e36b4b7-6b6e-4930-f26a-52aef38f96b2",
+                          "clickThrough": {
+                            "value": "https://www.walmart.com/cp/976759"
+                          }
+                        }
+                      },
+                      {
+                        "name": "Electronics",
+                        "image": {
+                          "alt": "Electronics",
+                          "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-c2cd/k2-_d8aac3aa-e920-427a-b965-49bfce1fed14.v1.jpg",
+                          "assetId": "207d0362-a09b-49c3-bb43-ac24188609da",
+                          "clickThrough": {
+                            "value": "https://www.walmart.com/cp/3944"
+                          }
+                        }
+                      },
+                      {
+                        "name": "Home",
+                        "image": {
+                          "alt": "Home",
+                          "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-362d/k2-_fb442a82-c9c1-410d-b9d9-e9d5fc84ef2d.v1.jpg",
+                          "assetId": "49860d20-07dd-4101-25d8-3d448a66f352",
+                          "clickThrough": {
+                            "value": "https://www.walmart.com/cp/4044"
+                          }
+                        }
+                      },
+                      {
+                        "name": "Clothing, Shoes \u0026 Accessories",
+                        "image": {
+                          "alt": "Clothing, Shoes \u0026 Accessories",
+                          "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-7cc4/k2-_0125fcff-d6ae-459c-b7ab-95c1663c54ae.v1.jpg",
+                          "assetId": "39d1ab60-e429-4a34-832d-077227339a80",
+                          "clickThrough": {
+                            "value": "https://www.walmart.com/cp/5438"
+                          }
+                        }
+                      },
+                      {
+                        "name": "Personal Care",
+                        "image": {
+                          "alt": "Personal Care",
+                          "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-95e7/k2-_96d54d22-f89f-49d2-b1bb-464aedee6c9d.v1.jpg",
+                          "assetId": "17bfd903-fdaf-40d0-9b79-5f08dd7ec6c4",
+                          "clickThrough": {
+                            "value": "https://www.walmart.com/cp/personal-care/1005862"
+                          }
+                        }
+                      },
+                      {
+                        "name": "Pharmacy, Health \u0026 Wellness",
+                        "image": {
+                          "alt": "Pharmacy, Health \u0026 Wellness",
+                          "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-e14b/k2-_a7cfc684-e979-4006-8497-59da0fd714f9.v1.jpg",
+                          "assetId": "dcb0b86a-9bcf-4db0-9ea3-fa995c4271c6",
+                          "clickThrough": {
+                            "value": "https://www.walmart.com/cp/976760"
+                          }
+                        }
+                      },
+                      {
+                        "name": "Household Essentials",
+                        "image": {
+                          "alt": "Household Essentials",
+                          "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-e0ee/k2-_551b401e-73b8-49cc-a5cd-1fcbf0f8ecc8.v1.jpg",
+                          "assetId": "220f06f8-3784-43e4-a598-25eb68ad8c21",
+                          "clickThrough": {
+                            "value": "https://www.walmart.com/cp/1115193"
+                          }
+                        }
+                      },
+                      {
+                        "name": "Home Improvement",
+                        "image": {
+                          "alt": "Home Improvement",
+                          "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-b9fa/k2-_ea97dda3-e54d-468b-afac-0ae83639c5f3.v1.jpg",
+                          "assetId": "519759bc-5664-4285-8157-184d0efb4be0",
+                          "clickThrough": {
+                            "value": "https://www.walmart.com/cp/home-improvement/1072864"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "HubSpoke 3: 4x1 Module - Get gifting: Stocking Stuffers/ Toys/ Tech \u0026 Gaming/ Fashion Gifts - Desktop/mWeb - 11.30.22",
+                  "type": "HubSpokes4x1",
+                  "version": 5,
+                  "status": "published",
+                  "schedule": {
+                    "start": null,
+                    "end": "2022-12-17T00:00Z",
+                    "priority": 2,
+                    "expEnabled": false
+                  },
+                  "triggers": [
+                    {
+                      "pageType": "HomePageDesktop",
+                      "pageId": null,
+                      "zone": "contentZone19",
+                      "inheritable": false
+                    },
+                    {
+                      "pageType": "Homepage",
+                      "pageId": null,
+                      "zone": "contentZone16",
+                      "inheritable": false
+                    }
+                  ],
+                  "publishedDate": 1670861639189,
+                  "moduleId": "68be2146-c6c9-46d8-bd06-ca0a8fd1e6de",
+                  "module_id": "68be2146-c6c9-46d8-bd06-ca0a8fd1e6de",
+                  "matchedTrigger": {
+                    "pageType": "HomePageDesktop",
+                    "pageId": null,
+                    "zone": "contentZone19",
+                    "inheritable": false
+                  },
+                  "configs": {
+                    "__typename": "TempoWM_GLASSWWWHubSpokes4x1Configs",
+                    "headingText": "Get gifting",
+                    "categories4x1": [
+                      {
+                        "name": "Stocking stuffers",
+                        "image": {
+                          "alt": "Shop Stocking stuffers",
+                          "assetId": "46baffa6-335a-43f8-b67b-ea2caef47d1a",
+                          "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-2511/k2-_1f9f86dd-5dd6-4ff4-bdd1-8c8cd96bab6f.v1.jpg",
+                          "clickThrough": {
+                            "value": "/shop/gift-finder?facet=gf_interests%3AStocking+stuffers"
+                          }
+                        }
+                      },
+                      {
+                        "name": "Toys \u0026 games",
+                        "image": {
+                          "alt": "Shop toys and games",
+                          "assetId": "fd67a4c8-91bf-48b0-9383-33519c70005f",
+                          "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-c327/k2-_92781d27-d929-4650-adb9-f0654ada1138.v1.jpg",
+                          "clickThrough": {
+                            "value": "/shop/gift-finder?facet=gf_interests%3AToys+%26+games"
+                          }
+                        }
+                      },
+                      {
+                        "name": "Tech \u0026 gaming",
+                        "image": {
+                          "alt": "Shop Tech and gaming",
+                          "assetId": "ec824cc0-f734-4246-95e1-946870cc64cd",
+                          "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-771e/k2-_b7107582-e998-4ca8-bc08-97d1c1395e8b.v1.jpg",
+                          "clickThrough": {
+                            "value": "/shop/gift-finder?facet=gf_interests%3AVideo+games+%26+more%7C%7Cgf_interests%3ATech+gifts"
+                          }
+                        }
+                      },
+                      {
+                        "name": "Fashion picks",
+                        "image": {
+                          "alt": "Shop fashion picks",
+                          "assetId": "7646a06a-1009-4da6-a112-29a29f17a666",
+                          "src": "https://i5.walmartimages.com/dfw/4ff9c6c9-5093/k2-_84cf0f36-6eef-40e5-a9cd-045f82f70d3e.v1.jpg",
+                          "clickThrough": {
+                            "value": "/shop/gift-finder?facet=gf_interests%3AFashion+%26+jewelry"
+                          }
+                        }
+                      }
+                    ]
+                  }
+                },
+                {
+                  "name": "Was used with Mini Hero A/B test - Default #1: manual shelf - Zone 18) Desktop - Item Carousel - Reset Your Bedroom - 5.2.22",
+                  "type": "ItemCarousel",
+                  "version": 7,
+                  "status": "published",
+                  "schedule": {
+                    "start": null,
+                    "end": null,
+                    "priority": 3,
+                    "expEnabled": false
+                  },
+                  "triggers": [
+                    {
+                      "pageType": "HomePageDesktop",
+                      "pageId": null,
+                      "zone": "contentZone24",
+                      "inheritable": false
+                    }
+                  ],
+                  "publishedDate": 1666129220150,
+                  "moduleId": "dc1e7d95-a2b7-41c6-b064-19e241300051",
+                  "module_id": "dc1e7d95-a2b7-41c6-b064-19e241300051",
+                  "matchedTrigger": {
+                    "pageType": "HomePageDesktop",
+                    "pageId": null,
+                    "zone": "contentZone24",
+                    "inheritable": false
+                  },
+                  "configs": {
+                    "__typename": "TempoWM_GLASSWWWItemCarouselConfigsV1",
+                    "type": null,
+                    "title": "Reset your bedroom",
+                    "subTitle": null,
+                    "viewAllLink": {
+                      "linkText": "View all",
+                      "title": "View all",
+                      "clickThrough": {
+                        "type": "url",
+                        "value": "/browse/home-bedroom-refresh/0/0?_refineresult=true\u0026_be_shelf_id=2766774\u0026search_sort=100\u0026facet=shelf_id%3A2766774"
+                      }
+                    },
+                    "spBeaconInfo": null,
+                    "tileOptions": null,
+                    "productsConfig": { "products": null }
+                  }
+                }
+              ]
+            }
+          }
+        },
+        "headers": {}
+      },
+      "dimensionData": "886",
+      "psych": {
+        "isDesktop": true,
+        "isBot": false,
+        "isMobile": false,
+        "trafficType": "customer"
+      },
+      "isomorphicSessionId": "oP-m5VgU28C9VZ738oeQf",
+      "trace": {
+        "traceId": "18167c3a2336a18c87d81ad15a7c0021",
+        "spanId": "8d62ff7bd937e43b",
+        "traceFlags": 1
+      },
+      "isCaching": false,
+      "queryContextCacheId": 9852,
+      "bootstrapData": {
+        "account": { "data": { "account": null } },
+        "cart": null,
+        "header": {
+          "data": {
+            "contentLayout": {
+              "modules": [
+                {
+                  "name": "New GlobalHamburgerNav Module, Monday, February 01, 2021, 10:56:25:63 am",
+                  "type": "GlobalHamburgerNav",
+                  "moduleId": "e5695db1-03c9-4ad8-87b1-3ecc7f36139a",
+                  "matchedTrigger": { "zone": "hamburgerNav" },
+                  "configs": {
+                    "subCategory": [
+                      {
+                        "subLinks": [
+                          {
+                            "link": {
+                              "linkText": "Purchase History",
+                              "title": "Purchase History",
+                              "clickThrough": { "value": "/orders" },
+                              "uid": "lClciGBL"
+                            },
+                            "icon": "Receipt"
+                          },
+                          {
+                            "link": {
+                              "linkText": "My Items",
+                              "title": "My Items",
+                              "clickThrough": { "value": "/my-items" },
+                              "uid": "-CR6cbCJ"
+                            },
+                            "icon": "Reorder"
+                          },
+                          {
+                            "link": {
+                              "linkText": "Account",
+                              "title": "Account",
+                              "clickThrough": { "value": "/account" },
+                              "uid": "UEvH7Fxj"
+                            },
+                            "icon": "User"
+                          }
+                        ]
+                      },
+                      {
+                        "subLinks": [
+                          {
+                            "link": {
+                              "linkText": "Help",
+                              "title": "Help",
+                              "clickThrough": { "value": "/help" },
+                              "uid": "8IhExTJt"
+                            },
+                            "icon": "QuestionCircle"
+                          }
+                        ]
+                      },
+                      {
+                        "subLinks": [
+                          {
+                            "link": {
+                              "linkText": "Lists",
+                              "title": "Lists",
+                              "clickThrough": { "value": "/lists" },
+                              "uid": "X1LAJGJ_"
+                            },
+                            "icon": "Heart"
+                          },
+                          {
+                            "link": {
+                              "linkText": "Registries",
+                              "title": "Registries",
+                              "clickThrough": {
+                                "value": "/cp/gifts-registry/1094765"
+                              },
+                              "uid": "1AXmIt42"
+                            },
+                            "icon": "Gift"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          },
+          "headers": {}
+        },
+        "footer": { "data": null },
+        "cv": {
+          "account": {
+            "_all_": {
+              "vuduLibraryUrl": "https://video.walmart.com/content/account/purchasehistory",
+              "enableAccountDWeb": true,
+              "registriesUrl": "/my-registries",
+              "enableGoogleAutoComplete": true,
+              "enableMyItemsMenu": true,
+              "enablePostalCodeMessage": false,
+              "enableLocationAutoComplete": true,
+              "eBookUrl": "https://www.walmart.com/account/redirect/kobo?page=library",
+              "enableAccountWallet": true,
+              "isInHomeEnabled": true,
+              "ccpaUrl": "/account/ccpa-reporting",
+              "enableNextBestAction": true,
+              "enableAccountMWeb": true,
+              "enableSubscriptionModule": true,
+              "enableAVSOverrideGoogleAutoComplete": true,
+              "walmartPlusUrl": "https://www.walmart.com/grocery/account/plus/overview",
+              "enablePostalCodeOnly": false,
+              "enableInHomeEdit": true,
+              "listsUrl": "/lists",
+              "enableZipcodeInAddressSelector": false,
+              "showSignInNudgeMWeb": true,
+              "showSignInNudgeDweb": true,
+              "placeholder": 1,
+              "enableWalmartPlus": true,
+              "customCakeUrl": "https://www.walmart.com/order-ahead/cake",
+              "enableDigitalRewards": false,
+              "itemSubscriptionUrl": "https://www.walmart.com/m/deals/subscriptions/manage",
+              "communicationAndPrivacyUrl": "/account/communications-and-privacy",
+              "digitalRewardsUrl": "https://www.walmart.com/cp/8301756",
+              "enableWalmartPlusPreference": true,
+              "walmartAssociateUrl": "https://www.walmart.com/account/associate-discount",
+              "pharmacyUrl": "https://www.walmart.com/pharmacy/dashboard",
+              "enableFeatureCommsAndPrivacy": true,
+              "protectionPlanUrl": "/protection-plans",
+              "enchancedAccountPharmacyUrl": "https://www.walmart.com/cp/5431",
+              "enableItemSubscriptionRamp": false,
+              "reorderUrl": "https://www.walmart.com/my-items",
+              "enableAvsOverride": true,
+              "shouldUpdateCartAfterUpdateZipcode": true,
+              "ccpaNewRequestUrl": "https://www.walmart.com/account/api/ccpa-intake?native=false\u0026amp;type=access",
+              "autoCareCenterUrl": "https://www.walmart.com/cp/auto-services/1087266",
+              "isFCShippingEnabled": true,
+              "enableItemSubscription": true,
+              "enableAddressLineOneAutofill": false,
+              "isRewardsEnabled": true,
+              "enableCharityOfChoice": true,
+              "enableInHomeAddress": true
+            }
+          },
+          "cart": {
+            "_all_": {
+              "enableAuthErrorFix": true,
+              "enableItemUpdates": true,
+              "enableLeanModeSFL": false,
+              "cartQueryStaleTime": 240000,
+              "enablePartialCheckout": true,
+              "enableWplusCashback": false,
+              "enableSingletonATF": false,
+              "enableForceFooterVisibility": true,
+              "enableFullPagePAC": true,
+              "enableGXOSignInNudge": true,
+              "enableReturnsLabel": false,
+              "enableCapOneRewards": true,
+              "enableGuestCheckout": true,
+              "enableACCOnPAC": false,
+              "enableLeanModeATC": true,
+              "enableDetailedPartialXoLabel": false,
+              "enableCartWplusBannerPickup": true,
+              "enableWplusThirtyDaystrial": true,
+              "showPersonalization": true,
+              "enableCartWplusBannerNoSlotSelected": true,
+              "enableAddOnServicesPAC": true,
+              "enableCarePlansAndHomeServices": true,
+              "enableSetShippingOrDeliveryMutation": true,
+              "enableSubstituteOOSV2": true,
+              "disableP13nOnPAC": false,
+              "enableOmniPromise": true,
+              "enableEnhancedEmptyCart": true,
+              "enableWirelessPostpaid": true,
+              "projectThunderbolt": false,
+              "sflCountPerPagination": 20,
+              "enableNewSignInBenefitCards": true,
+              "enableEarlyAccess": true,
+              "enableInHomeDelivery": true,
+              "enableLastCallNonRoutine": false,
+              "disableGetCartCSR": false,
+              "enableWplusBannersPostCartLoadPage": true,
+              "enablePostLoadDeals": true,
+              "enablePAC": true,
+              "enableNonConfigBundles": true,
+              "slotShortcutMaxSlotReqCount": 15,
+              "enableSigninBenefits": true,
+              "enableFPCEHeader": true,
+              "slotShortcutGetSlotsQueryCacheTime": 30000,
+              "enableWplusFulfillmentBanner": true,
+              "enableHelium": true,
+              "enableFFCollapseMode": false,
+              "enableLoadAfterATF": false,
+              "enableIbotta": true,
+              "enableCXOPrefetch": true,
+              "enableItemSwitchableTempBadge": false,
+              "enableCartLevelMSI": false,
+              "enableAEBadge": true,
+              "enableATCAnimation": false,
+              "enableGetCartAuthErrorRefetch": true,
+              "enableCapOne": true,
+              "enableFCTodayTomorrowHeader": true,
+              "enableIntentControl": false,
+              "enableWideProductImages": true,
+              "enableWeightedItems": false,
+              "enableWalmartPlusIntegratedSignUp": true,
+              "enableItemSwitchableBadge": false,
+              "enableATCRateLimitingMessage": true,
+              "enableATCOptimization": true,
+              "enableFeeThresholdBar": false,
+              "enableSubstituteOOS": true,
+              "enableSmartNudges": true,
+              "enableACCScheduling": true,
+              "enableMPStoreSelector": true,
+              "enableCartLight": false,
+              "enableSmileyPricing": true,
+              "enablePartialSwitchModuleLevel": false,
+              "enableGroceryPAC": true,
+              "enableCallouts": false,
+              "enableAffirm": true,
+              "enableItemNotSwitchableBadge": false,
+              "enablePriceChange": false,
+              "enableEbt": true,
+              "enableLastCallFullPage": false,
+              "enableWplus": true,
+              "enableSFL": true,
+              "enableSetPickupMutation": true,
+              "enableWirelessFreebiePromo": true,
+              "enableCartGIC": true,
+              "enableRegistry": true,
+              "disableCartIconPriceTotal": false,
+              "enableShippingIntent": true,
+              "enableExpressUpsell": false,
+              "enableLeanMode": true,
+              "enableCartWplusBannerTempo": true,
+              "disableEstTotalOnMweb": false,
+              "enableQueueing": true,
+              "enableFFModuleHideUnhideCarrot": true,
+              "enableProductTileV2": true,
+              "enableFulfillmentHeadersV2": true,
+              "leanModeRetryLimit": 1,
+              "enableLastCall": true,
+              "enableFulfillmentGroupId": true,
+              "enableAccSchedulingFindStores": true,
+              "enableFPCEAosVariant": 4,
+              "enableOOSHotFix": true,
+              "enableFreeAmendAndReturn": false,
+              "enableStarRatings": false,
+              "enableFreeShippingAndPickup": true,
+              "enableSFLPerformanceMode": false,
+              "enableOnXoMoveOosToSfl": false,
+              "enableClearMergeCartSFL": true,
+              "enableShopSimilar": true,
+              "enableATFGiftingUI": false,
+              "enableCartBookslotShortcut": false,
+              "enablePACCheckout": false,
+              "enableCartWplusBannerShippingMoreThanMin": true,
+              "enableEnhancedItemUpdates": false,
+              "initialSFLCount": 10,
+              "enableClearMergeCartId": true,
+              "enableExpressReservationEndTime": false,
+              "hideGuestXOCTA": true,
+              "enableSplashRouteAddition": false,
+              "enablePACAOSVariants": 1,
+              "disableItemLevelMSI": false,
+              "enableGiftingCheckbox": true,
+              "enableSignInFromCart": true,
+              "enableOOSAlertScroll": true,
+              "disableGuestPartialXO": true,
+              "calculateFooterPositionOnResize": true,
+              "enableStoreSnackBarMessage": false
+            }
+          },
+          "bookslot": {
+            "_all_": {
+              "gmStoreMessageForNoUSPSlot": true,
+              "enableEvergreenSlot": true,
+              "enableWirelessPostpaid": true,
+              "projectThunderbolt": true,
+              "enableReReserveSlot": true,
+              "walmartPlusFreeDelivery": true,
+              "enablePriorityTimesIntegratedSignup": true,
+              "expressDeliveryOnlyStores": true,
+              "enableWalmartPlusIntegratedSignUp": true,
+              "hidePickupSlotPrice": true,
+              "alcoholRestrictedSlotsFilterEnable": true,
+              "disableMergeAndGetCartCSR": true,
+              "enableWplusCashback": false,
+              "enableUseCurrentLocation": true,
+              "enableBlockRegistrantAddressDelivery": true,
+              "enableEarliestAvailableSlotPreselection": false,
+              "enableFulfillmentIntent": true,
+              "enableInHomeAmPmSlotsPhase2": true,
+              "enablePassCartIdAcidCheck": true,
+              "enableNoSlotPreselectionOnTabSwitch": false,
+              "enableSlotPreSelectionV2": true,
+              "enableUnauthorizedAccessToCartErrorFix": true,
+              "enableEarliestAvailableDayPreselection": false,
+              "enablePickupOnShippingIntent": true,
+              "enableNoPickupSlotSelectionForDefaultStore": true,
+              "enableWalmartPlus": true,
+              "nodeSelectableOnlineEnable": true,
+              "enableStoreHours": true,
+              "hideStoreChooserDefaultAlert": true,
+              "enableDeliveryAddressFromSlotData": true,
+              "tempoCacheExpirationInSeconds": 300,
+              "enablePriorityTimes": true,
+              "enableReservationNotAcceptableFix": true,
+              "enableStoreSelectorMarketplacePickup": true,
+              "enableStoreSelectorFeedback": true,
+              "maxCountOfStoresForInventory": 8,
+              "disableFreeDeliveryBannerForExpressOnlyStores": true,
+              "enablePreselectionV2UserIntentOverReservation": false,
+              "enablePassCartIdAcidCheckStoreSelector": true,
+              "enableInHomeAmPmSlots": true,
+              "enableCartFulfillmentOption": false,
+              "enableInHomeSlotsQueryHeader": true,
+              "mergeSlotsEnable": true,
+              "enableStoreSelectorUnauthorizedAccessToCartErrorFix": true
+            }
+          },
+          "header": {
+            "_all_": {
+              "enabledGICRetentionPrompt": false,
+              "showNavLinks": true,
+              "enableL0SeoLinksForAllPage": false,
+              "heartingEnhancementsEnable": false,
+              "enableTADropdown": false,
+              "fetchLocation": false,
+              "enableGIC": true,
+              "calloutViewsPerIdPerBSTC": 1,
+              "maxCalloutsPerBSTC": 4,
+              "flyOutExpandOnClick": true,
+              "enableNavClickability": true,
+              "navLinks": "'[{\"name\": \"Grocery\",\"link\": \"https://www.walmart.com/cp/1735450\"},{\"name\": \"Tech\",\"link\": \"https://www.walmart.com/cp/electronics/3944\"},{\"name\": \"Fashion\",\"link\": \"https://www.walmart.com/cp/clothing/5438\"},{\"name\": \"Home\",\"link\": \"https://www.walmart.com/cp/home/4044\"},{\"name\": \"Patio \u0026 garden\",\"link\": \"https://www.walmart.com/cp/patio-garden/5428\"},{\"name\": \"National donut day\",\"link\": \"https://www.walmart.com/shop/national-donut-day\"},{\"name\": \"Deals\",\"link\": \"https://www.walmart.com/shop/deals\"},{\"name\": \"Walmart+\",\"link\": \"https://www.walmart.com/plus\"}]'",
+              "isAlertBarEnabled": true,
+              "fetchLocationCSROnLoad": true,
+              "enableResponsiveHF": true,
+              "calloutViewsPerIdPerVTC": 2,
+              "enableGICAutoShowOnSessionStart": false,
+              "enableDeliveryStoreSelection": false,
+              "showOptOut": false,
+              "calloutsEnabled": true,
+              "enableL0SeoLinksForItemPage": false,
+              "showAddressLineOne": true,
+              "enableStickyGIC": true
+            }
+          },
+          "pulse": {
+            "_all_": {
+              "alwaysAllowedTagList": "",
+              "logLevel": "info",
+              "enableV1Schema": true,
+              "enableQuantumMetric": false
+            }
+          },
+          "footer": {
+            "_all_": {
+              "enableXOFeedback": true,
+              "hideGiveFeedbackSection": true,
+              "enableNativeAppDownloadBottomsheet": true,
+              "enableEmailSignup": true,
+              "timeIntervalInHoursNativeAppInstallPrompt": 24,
+              "enableNativeAppDownloadStickyBanner": true,
+              "enableInStoreWifiAppPrompt": true,
+              "maxNumberOfNativeAppInstallPrompt": 2,
+              "enableForceB2BLogout": true,
+              "isFullFooterEnabled": true
+            }
+          },
+          "shared": {
+            "_all_": {
+              "enableExpressSla": true,
+              "enableSinglePaymentForm": true,
+              "aeModuleHeaderText": "Free pickup",
+              "enablePersistedCartId": true,
+              "enableQueueSizeIncrease": true,
+              "legacySiteDirectspendingRedirectEnabled": false,
+              "cacheFullFooterVersion": 1,
+              "enableIbotta2xRewards": false,
+              "enableOutOfStockFiltering": false,
+              "itemReservationsBannerText": "left to buy your item",
+              "helpLinkMobileAlertsTerms": "https://www.walmart.com/help/article/mobile-alerts-terms-of-use/499122d9bba94d08b50e8facf42fcc82",
+              "enableSmileNowPricing": true,
+              "bookSlotPersistentFilterEnable": false,
+              "enableFulfillmentDisplay": false,
+              "legacySiteNGRedirectEnabled": false,
+              "enableCsp": true,
+              "cacheHeaderVersion": 1,
+              "enableSmileSaveBadge": false,
+              "enableLiquorBoxAlcoholExpansionCartBookslot": true,
+              "enableChargeForSubs": true,
+              "enableNoOrderMinimumFee": false,
+              "cspReportOnlyOverrides": "connect-src",
+              "savingsRecommendationFlag": 2,
+              "enableFullPageCart": true,
+              "cacheHeaderExpireDurationMs": 600000,
+              "enableHubAndSpoke": true,
+              "enableCartParallelFetch": true,
+              "queueRefetchInterval": 5000,
+              "enableBuyNowWallet": true,
+              "queueMaxRefetchDuration": 900000,
+              "enableSmileWasPricing": false,
+              "enableAstCookie": true,
+              "cvEndpoint": "rest",
+              "enableFPO": true,
+              "enableSinglePaymentFormWallet": true,
+              "enableHPO": true,
+              "enableFloatingAddToOrder": false,
+              "enableSinglePageXO": true,
+              "cacheFooterExpireDurationMs": 600000,
+              "enableQueueing": true,
+              "helpLinkReturnRefunds": "https://www.walmart.com/help/channel/returns-and-refunds/5a33a1f61af8479e9d1bd8b727e9e761",
+              "enableWplusSignUpOffer": true,
+              "foo": false,
+              "enableBadges": true,
+              "cacheFooterVersion": 1,
+              "enableWeeklyReservationCartBookslot": true,
+              "enableBuyNowSFLPrompt": false,
+              "enableDynamicMainReducer": false,
+              "helpLinkMPReturnPolicy": "https://www.walmart.com/help/article/walmart-marketplace-return-policy/63c3566a9d3546858582acae2fbfdb7e",
+              "enableBuyNowPromiseMessage": true,
+              "helpLinkTermsOfUse": "https://www.walmart.com/help/article/walmart-com-terms-of-use/3b75080af40340d6bbd596f116fae5a0",
+              "placeholder": "US-B2C",
+              "enablePersistedQueries": true,
+              "legacySiteInhomeRedirectEnabled": false,
+              "legacySiteEbtRedirectEnabled": false,
+              "enableWaitingHallway": true,
+              "disableGetCartSSR": true,
+              "enableAdSessionId": true,
+              "cacheFullFooterExpireDurationMs": 600000,
+              "queueTimeToCompletePurchase": 10,
+              "helpLinkStorePurchase": "https://www.walmart.com/help/article/view-store-purchases/f56a1afbf3b5428bb69f0124daa49108",
+              "beaconWithQuantumMetrics": false,
+              "enableGifting": true,
+              "enableBuyNowAOS": false,
+              "enablePartialSwitchModuleLevelCartBookslot": false,
+              "disableAuthHeaderCheck": false,
+              "enableGicEngagement": true,
+              "enableSlotsParallelFetch": true,
+              "enableWalmartPlusFreeDiscountedExpress": true,
+              "enableMPPickupBottomSheet": true
+            }
+          },
+          "homepage": {
+            "_all_": {
+              "optimizeHeroPovPreloads": false,
+              "enableSwatchOptions": true,
+              "enableGutterBgColor": true,
+              "seoDescription": "Shop Walmart.com today for Every Day Low Prices. Join Walmart+ for unlimited free delivery from your store \u0026 free shipping with no order minimum. Start your free 30-day trial now!",
+              "smileVariation": 2,
+              "enablePerfLogging": false,
+              "delayFirstHeroPovTime": false,
+              "seoTitle": "Walmart.com | Save Money. Live Better",
+              "seoKeywords": "Walmart,Walmart.com,Online Shopping,Gifts,Toys,Home,Jewelry,TVs,HD TVs,Smart TVs,Electronics,Baby Products,Video Games,Computers,Laptops,Cell Phones,Games,Apparel,Clothing,Fashion,Accessories,Shoes,Watches,Sports \u0026 Outdoors, Sporting Goods,Office Products,Health,Vitamins,Personal Care,Beauty Products,Garden,Bed,Bath,Furniture,Tools,Hardware, Vacuums,Outdoor Living,Automotive Parts,Pet Food,Pet Supplies,iphone",
+              "delayHeroPovPlay": false,
+              "homePageLayout": "enableMiniHeroPOV",
+              "featureImageSizeEnum": 2,
+              "enableHomePageExpiryTimeWithPlaceholder": false,
+              "reservationExpiryMessageWindowDurationInSeconds": 10800,
+              "enableHomeApiSplit": true,
+              "clientFetchTimeoutMs": 5000,
+              "isWplusFreeDelivery": true,
+              "bookslotInHomeEnabled": true,
+              "enableLazyLoadOnScroll": true,
+              "enableMiniHeroPOV": false,
+              "enableDepartmentGridDesign": true,
+              "enableUseAmendableOrderData": true
+            }
+          },
+          "ads": {
+            "_all_": {
+              "adPreviousResponseNullCheck": false,
+              "bpGalReqEnable": false,
+              "spSvLoopCompleteEventEnable": true,
+              "ipMq1RenderEnable": true,
+              "spSkDSPEnable": true,
+              "ipSkReqEnable": true,
+              "ipMq1DSPEnable": true,
+              "enableGetPvId": true,
+              "bpMq2Measure1PEnable": true,
+              "measure3PImpEnable": true,
+              "ipBr1VideoDSPEnabled": true,
+              "bpSkReqEnable": true,
+              "videoEarlyloadOffset": 1200,
+              "adPreviewMode": false,
+              "adShowAtcFieldEnable": true,
+              "hpMq1Measure1PEnable": true,
+              "videoCCEnable": true,
+              "hpMq1Measure3PEnable": true,
+              "hpMq2DSPEnable": true,
+              "spSkRenderEnable": true,
+              "bpSpc1ReqEnable": true,
+              "displayUnitWrapperUnmount": true,
+              "updateAdV2QueryUbsEnable": true,
+              "displayCheckIp": false,
+              "ipBr1Measure3PEnable": true,
+              "cartP13nMeasure1PEnable": true,
+              "bpSkDSPEnable": true,
+              "phSkRenderEnable": true,
+              "ipBr1Measure1PEnable": true,
+              "adManualShelfIdCheck": true,
+              "hpGalMeasure3PEnable": true,
+              "hpGalMeasure1PEnable": true,
+              "ipGalTopReqEnable": false,
+              "spSvContainerEnable": true,
+              "spSkMeasure1PEnable": true,
+              "displaySbaLogospQs": true,
+              "adSpClipBeaconEnable": true,
+              "spSkMeasure3PEnable": true,
+              "spGalReqEnable": false,
+              "ipBr1EarlyLoadRootMargin": 0,
+              "bpSpc1Measure1PEnable": true,
+              "typMq1ReqEnable": false,
+              "bpMq1DSPEnable": true,
+              "sbaMwebRedesignV2Enable": false,
+              "hpGalRenderEnable": true,
+              "odpSkRenderEnable": true,
+              "adSPIncrementDecrementCheck": true,
+              "spGalMeasure3PEnable": false,
+              "odpSkMeasure1PEnable": true,
+              "spMq1Measure1PEnable": true,
+              "odpSkReqEnable": true,
+              "spIbottaEnable": true,
+              "typMq1Measure1PEnable": false,
+              "displaySpMyItems": true,
+              "typSkMeasure3PEnable": false,
+              "buyBoxVariations": "3",
+              "bpMq1Measure1PEnable": true,
+              "spMq2ReqEnable": true,
+              "updateAdV2Query2StoreEnable": false,
+              "dspViewabilityTracking": true,
+              "bpSkRenderEnable": true,
+              "enableSearchGalleryMaxWidth": false,
+              "ipMq1Measure1PEnable": true,
+              "odpSkConfigModuleLocation": "top",
+              "spSkReqEnable": true,
+              "displayPreviousRenderCheck": true,
+              "enableGalleryItemChanges": true,
+              "hpMq1ReqEnable": true,
+              "bpBigMeasure1PEnable": true,
+              "sbaMwebRedesignV1Enable": true,
+              "ipSkMeasure3PEnable": true,
+              "ipMq2Measure3PEnable": true,
+              "hpMq2Measure3PEnable": true,
+              "bpMq2Measure3PEnable": true,
+              "displayDeduplication": true,
+              "enableMyitemsSortPlacementBeacon": true,
+              "blockInternal": true,
+              "display3PVisibilityCheck": true,
+              "ipGalTopMeasure1PEnable": false,
+              "ipSkRenderEnable": true,
+              "ipMq2ReqEnable": true,
+              "ipMq2RenderEnable": true,
+              "phSkMeasure1PEnable": true,
+              "disableLowPriorityBeacons": false,
+              "ipGalMiddleMeasure1PEnable": true,
+              "spMq2Measure3PEnable": true,
+              "adResponseBeaconEnable": true,
+              "displayProductPos": true,
+              "phSkReqEnable": true,
+              "spGalRenderEnable": false,
+              "enableGalleryMultipleLocations": true,
+              "ipGalTopRenderEnable": false,
+              "spMq2Measure1PEnable": true,
+              "hpGalReqEnable": true,
+              "enableGalleryV2Design": true,
+              "useLegacyBtfCmp": false,
+              "displayOrderDeduplication": true,
+              "cacheBusterTimeDiffMs": 180000,
+              "enableStackedRecallTracking": true,
+              "odpSkConfigLazy": 400,
+              "enableMyitemsAtcSortPlacementBeacon": true,
+              "dspProcessingEnable": true,
+              "bpMq2ReqEnable": true,
+              "spMq1RenderEnable": true,
+              "enableGalleryReRender": false,
+              "bpSkMeasure1PEnable": true,
+              "bpSkMeasure3PEnable": true,
+              "ipBr1DSPEnable": true,
+              "spMq2RenderEnable": true,
+              "spMq1DSPEnable": true,
+              "ipSpc2Measure1PEnable": true,
+              "displayPoVAdBlockerEnable": true,
+              "enableProductBrandOnBeacon": false,
+              "spSvMeasure1PEnable": true,
+              "myitemsMeasure1PEnable": true,
+              "ipGalMiddleReqEnable": true,
+              "spSvVideoTrackingEnable": true,
+              "bpMq1ReqEnable": true,
+              "displayAddlInfo": true,
+              "adsXpa": "9nMgr,WqVri,QdefC,ZCBNY,4eRz-,eJ9VH,srZJ6,3JfYH,d93_H,Fxy8_,Rt7EL,X5TFy,m9VEV,X40cQ,CiDhf,c8Jh6",
+              "typMq1RenderEnable": false,
+              "bpMq1RenderEnable": true,
+              "bpMq2DSPEnable": true,
+              "hpMq2RenderEnable": true,
+              "moatIvt": "https://www.walmart.com/swag/v2/ip-rd",
+              "bpMq2RenderEnable": true,
+              "adsQuickshopBeaconEnable": true,
+              "ipSpc2ReqEnable": true,
+              "hpMq1RenderEnable": true,
+              "bpGalMeasure1PEnable": false,
+              "useSearchBrowseBtfCmp": false,
+              "bpGalMeasure3PEnable": false,
+              "phSkConfigLazy": 400,
+              "bpGalRenderEnable": false,
+              "ipBr1RenderEnable": true,
+              "enableSeasonalColorOption": false,
+              "spSvLazyLoadingEnable": true,
+              "ipGalMiddleRenderEnable": true,
+              "displayProductsPos": false,
+              "enableBrandBoxEarlyLoad": false,
+              "odpSkMeasure3PEnable": true,
+              "hpMq1DSPEnable": false,
+              "spGalMeasure1PEnable": false,
+              "typMq1Measure3PEnable": false,
+              "enableGalleryTitle": true,
+              "typSkRenderEnable": false,
+              "hpP13nMeasure1PEnable": true,
+              "typSkMeasure1PEnable": false,
+              "ipSkMeasure1PEnable": true,
+              "adViewableGmBeaconCheck": true,
+              "spMq1Measure3PEnable": true,
+              "ipSpc1ReqEnable": true,
+              "phSkConfigModuleLocation": "top",
+              "lazyRenderCmp": false,
+              "ipMq1Measure3PEnable": true,
+              "ipMq2DSPEnable": true,
+              "phSkMeasure3PEnable": true,
+              "typSkReqEnable": false,
+              "safeframeURL": "https://i5.walmartimages.com/dfw/63fd9f59-d6ba/07b8ea82-184c-4ea3-8ac0-5dc1981e40c8/v33/safeframe.html",
+              "bpMq1Measure3PEnable": true,
+              "displayPPMMode": true,
+              "ipSpc1Measure1PEnable": true,
+              "ipMq1ReqEnable": true,
+              "spSvRenderEnable": true,
+              "ipSkDSPEnable": true,
+              "addSpVideoNaBeacon": true,
+              "ipMq2Measure1PEnable": true,
+              "hpMq2Measure1PEnable": true,
+              "spMq1ReqEnable": true,
+              "ipBr1MinScreenHeight": 768,
+              "ipGalTopMeasure3PEnable": false,
+              "spSpc1ReqEnable": true,
+              "ipP13nMeasure1PEnable": true,
+              "spSvReqEnable": true,
+              "enableAdSmilePricing": true,
+              "adCategoryTakeoverCheck": true,
+              "enableLegalDisclaimerSponsored": true,
+              "hpMq2ReqEnable": true,
+              "spMq2DSPEnable": true,
+              "spSpc1Measure1PEnable": true,
+              "hpPovLockoutPriorityEnable": true,
+              "ipBr1ReqEnable": true,
+              "ipGalMiddleMeasure3PEnable": true
+            }
+          }
+        }
+      },
+      "enableGqlCsrRedirect": true,
+      "nonce": "I2y7geSWVfaig2FJ",
+      "persistedQueriesConfig": {
+        "allowList": [""],
+        "blackList": [""],
+        "enableAllowList": false,
+        "enablePersistedQueries": true
+      },
+      "excludeBeacon": false,
+      "adSessionId": "59e93e9b2273df57f89e1c6d5b4b355a"
+    }
+  },
+  "page": "/",
+  "query": {},
+  "buildId": "production_20221210T134034159Z-en-US",
+  "assetPrefix": "https://i5.walmartimages.com/dfw/63fd9f59-643c/59ccf05d-5a79-4041-be3a-2de7fc1283eb/v2/en-US",
+  "runtimeConfig": {
+    "nxApplicationName": "US-JOURNEY",
+    "isDev": false,
+    "enableLatencyTrace": true,
+    "tenant": "WM_GLASS",
+    "vid": "oaoh",
+    "tenantV2": { "bu": "WALMART-US", "mart": "B2C" },
+    "mockURL": "http://mock-backend.dev.walmart.com/",
+    "mock": true,
+    "endpointMappings": {
+      "operations": {
+        "query configuration": "cegateway",
+        "query ContentPage": "cegateway",
+        "query checkItemCartEligibility": "cecxo",
+        "mutation MergeAndGetCart": "cecxo",
+        "query getGuestOrder": "cegateway",
+        "query PurchaseHistory": "cecph",
+        "mutation NotifyCapOneBannerSnooze": "cegateway",
+        "mutation CancelOrder": "cecph",
+        "query LastCallPage": "cegateway",
+        "query AdV2Display": "adsgateway",
+        "query GetCommPreference": "cegateway",
+        "query PurchasedProtectionPlans": "cecph",
+        "query ProtectionPlanDetail": "cecph",
+        "query subscriptions": "cegateway",
+        "query NodeDetailQuery": "cegateway",
+        "query NearbyNodesQuery": "cegateway",
+        "query LocalStoreContentQuery": "cegateway",
+        "query CartSubstitutions": "cegateway",
+        "query CartShopSimilar": "cegateway",
+        "query GetEarlyAccessLearnMoreData": "ceaccount",
+        "query PostCartLoadPage": "cegateway",
+        "query SearchStore": "cegateway",
+        "query LocalStoreCategoryContent": "cegateway",
+        "query nodeDetails": "cegateway",
+        "query storeFinderNearbyNodesQuery": "cegateway",
+        "mutation CreateInsuranceSalesLead": "wellness"
+      },
+      "queryStrings": {
+        "step=cart": "cecxo",
+        "step=bookslot": "cecxo",
+        "entitytype=*": "ceorders",
+        "state=*": "ceorders",
+        "source=*": "ceorders"
+      },
+      "pages": {
+        "*": "cegateway",
+        "/": "cegateway",
+        "/hp-redesign": "cegateway",
+        "/404": "cegateway",
+        "/account/*": "cegateway",
+        "/all-departments": "cegateway",
+        "/browse/*": "cegateway",
+        "/c/[...seo]": "cegateway",
+        "/c/auto-directory/*": "cegateway",
+        "/ci-control": "cegateway",
+        "/cp/[...categoryParams]": "cegateway",
+        "/content/[...categoryParams]": "cegateway",
+        "/help/*": "cegateway",
+        "/i/*": "cegateway",
+        "/ip/[...itemParams]": "cegateway",
+        "/lists/*": "cegateway",
+        "/my-items": "cegateway",
+        "/my-registries": "cegateway",
+        "/shop/*": "cegateway",
+        "/shop/[...seo]": "cegateway",
+        "/nonprofits/*": "cegateway",
+        "/orders/*": "ceorders",
+        "/partner/plus/*": "cegateway",
+        "/plus/*": "cegateway",
+        "/product/[...itemParams]": "cegateway",
+        "/registry/*": "cegateway",
+        "/reviews/*": "cegateway",
+        "/search/*": "cegateway",
+        "/seller/*": "cegateway",
+        "/services": "cegateway",
+        "/store": "cegateway",
+        "/store/[storeId]": "cegateway",
+        "/store/[storeId]/[...contentType]": "cegateway",
+        "/sparkgood/*": "cegateway",
+        "/thankyou": "cecxo",
+        "/thankyou/pindrop": "cecxo",
+        "/topic/[...seo]": "cegateway",
+        "/tp/*": "cegateway",
+        "/update-payment-method-form": "cegateway",
+        "/update-payment-method": "cegateway",
+        "/wallet/associate-discount": "cegateway",
+        "/subscriptions/manage": "cegateway",
+        "/cart": "cecxo",
+        "/pac": "cecxo",
+        "/updatecart": "cecxo"
+      }
+    },
+    "googleMaps": {
+      "checkAddressAPIKey": "AIzaSyCX5gh3yoq4316wUDxRpljFOwWA6_-BEMg",
+      "addressAPIKey": "AIzaSyBIAnB1a3UejjFVRNtszhaEE8yrKySRTEo",
+      "geoCodingAPIKey": "AIzaSyBvv63fBVZ1RtNJLGkN9XCFE1WfVl0o1HY",
+      "riseMapAPIKey": {
+        "dev": "AIzaSyA9K6pBcYvCp4_FxKHsPi-JDJfvcvSbtp0",
+        "defaultKey": "AIzaSyA0Gi6N7afDzAqBiPI3MlWDMaaxC5xKldM"
+      }
+    },
+    "pulseBeacon": {
+      "enable": true,
+      "hostname": "i5.walmartimages.com",
+      "bd": "beacon.walmart.com",
+      "bh": "beacon.lightestwithqm.walmart.com",
+      "hostWithQM": "beacon.lightestwithqm.walmart.com",
+      "hostWithoutQM": "beacon.lightest.walmart.com",
+      "photoHost": "beacon.photowithqm.walmart.com",
+      "photoHostWithoutQM": "beacon.photo.walmart.com"
+    },
+    "perimeterX": {
+      "enable": true,
+      "initScript": "https://www.walmart.com/px/PXu6b0qd2S/init.js"
+    },
+    "identity": {
+      "context": {
+        "signOutUrl": "https://www-e16.walmart.com/account/logout",
+        "signInPathname": "/account/login",
+        "createAccountPathname": "/account/signup",
+        "tenants": [
+          {
+            "host": {
+              "stage": "business-stage.walmart.com",
+              "teflon": "business-teflon.walmart.com",
+              "production": "business.walmart.com"
+            },
+            "mart": "B2B",
+            "templates": [
+              "B2BSignUpPage",
+              "B2BSignInPage",
+              "B2BSignInWithPasswordOnlyPage",
+              "B2BSignInWithOTPChoicePage",
+              "B2BSignInWithOTPOnlyPage"
+            ]
+          }
+        ]
+      },
+      "authFrameRoutes": {
+        "frame": "/account/login",
+        "gxoSignin": "/account/login",
+        "gxoSignup": "/account/signup/gxo",
+        "reauthFrame": "/account/login"
+      }
+    },
+    "threatMetrix": { "enable": true },
+    "paymentsPageUrl": "https://wallet.walmart.com/payments?wv=main",
+    "paymentsChooserPageUrl": "https://wallet.walmart.com/payments/chooser",
+    "walletPageUrl": "https://wallet.walmart.com/payments/wallet",
+    "moatIvt": "https://www.walmart.com/swag/v2/ip-rd",
+    "appVersion": "main-1.34.1-102412-1210T1332",
+    "appSha": "f9a4dd7d2e5bd2c34f25d18f7013dd494f523cc5",
+    "profile": "production",
+    "tmxOrgId": "hgy2n0ks",
+    "dataCenter": "wus2",
+    "queryContext": {
+      "appVersion": "main-1.34.1-102412-1210T1332",
+      "gql": {
+        "endpointsByName": {
+          "ceaccount": "/orchestra/account/graphql",
+          "cecxo": "/orchestra/cartxo/graphql",
+          "cecph": "/orchestra/cph/graphql",
+          "adsgateway": "/swag/graphql",
+          "aroundme": "/around-me/graphql",
+          "ceorders": "/orchestra/orders/graphql",
+          "cegateway": "/orchestra/home/graphql",
+          "wellness": "https://developer.api.us2.walmart.com/api-proxy/service/hw/wellnessplusservice/v1/graphql"
+        }
+      },
+      "rest": {
+        "endpointsByName": {
+          "cereturns": "/orchestra/api/returns",
+          "ceaccount": "/orchestra/api/account",
+          "cehelp": "/orchestra/help/api",
+          "cehelpchat": "/orchestra/helpChat/api",
+          "ceidentity": "/orchestra/account/electrode/api/identity",
+          "typeahead": "/typeahead/v3/complete",
+          "espvalidation": "/esp/prepaid/v1/plans",
+          "warppaymentoptions": "/orchestra/api/online/variantbasic/item",
+          "cewarp": "/orchestra/api/warp",
+          "ceccm": "/orchestra/api/ccm/v2/bootstrap",
+          "cewireless": "/orchestra/api/wireless",
+          "storeservices": "/graphql",
+          "feedbackSubmit": "/orchestra/api/customer-survey/submit",
+          "quimbyMobile": "/orchestra/api/tempo",
+          "shopwithme": "/feeds"
+        }
+      }
+    }
+  },
+  "isFallback": false,
+  "dynamicIds": [651278, 72240, 600387, 169850, 936995],
+  "customServer": true,
+  "gip": true,
+  "appGip": true,
+  "locale": "en",
+  "locales": ["en"],
+  "defaultLocale": "en",
+  "scriptLoader": []
+}
