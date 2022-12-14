@@ -1,0 +1,109 @@
+{
+  "props": {
+    "pageProps": {},
+    "formFactor": "desktop",
+    "hasWebpSupport": true,
+    "isBot": false,
+    "sapphireInstance": {
+      "serviceName": "digital-web",
+      "qualifiedExperiments": {
+        "ch": [],
+        "dt": "",
+        "vid": "",
+        "pages": [
+          {
+            "svc": [
+              {
+                "name": "digital-web",
+                "h": "5b9275624fd9758132cb3ad7aa34af3c",
+                "payload": [
+                  {
+                    "tid": "26893e06-0d2d-4de9-ab24-fe75ecc67318",
+                    "pl": [{ "TOWN_CRIER_ENABLED": true }],
+                    "et": "2023-03-02T05:59:59.999Z"
+                  },
+                  {
+                    "tid": "774c2850-b9fc-45a9-8571-569d336353a9",
+                    "pl": [
+                      {
+                        "ORDER_CONSOLIDATION_MESSAGE_ENABLED": true,
+                        "NO_RUSH_ORDER_CONSOLIDATION_MESSAGE_ENABLED": false
+                      }
+                    ],
+                    "et": "2023-04-01T04:59:59.999Z"
+                  },
+                  {
+                    "tid": "859a3170-5c85-4a82-aa63-9abee31c7013",
+                    "pl": [{ "TABBED_ITEM_LISTS_ENABLED": true }],
+                    "et": "2023-04-01T04:59:59.999Z"
+                  },
+                  {
+                    "tid": "9260e5c8-6060-4d9e-b79a-2c67a6c51a91",
+                    "pl": [{ "EVENT_ALERTS_ENABLED": true }],
+                    "et": "2023-04-01T04:59:59.999Z"
+                  },
+                  {
+                    "tid": "b705c957-3fc3-40c4-9ce0-40a90ab66bb5",
+                    "pl": [{ "PAYPAL_FLOW_REWORK_ENABLED": true }],
+                    "et": "2023-11-01T04:59:59.999Z"
+                  },
+                  {
+                    "tid": "cb82e454-6add-4dd9-b4ef-455669e5335f",
+                    "pl": [
+                      {
+                        "SITE_CART_ENABLED": true,
+                        "SITE_CHECKOUT_ENABLED": true,
+                        "SNAP_PAYMENTS_ENABLED": true,
+                        "CDN_ROUTE3_CHECKOUT_WPS": true,
+                        "SNAP_ADD_EDIT_EBT_ENABLED": true,
+                        "DISABLE_SNAP_FOR_INELIGIBLE_STATE": false
+                      }
+                    ],
+                    "et": "2023-04-29T04:59:59.999Z"
+                  },
+                  {
+                    "tid": "e14e65bd-abee-481d-8d0a-be6864b05697",
+                    "pl": [{ "GET_IT_NOW_ASSISTANT_ENABLED": true }],
+                    "et": "2023-11-01T04:59:59.999Z"
+                  },
+                  {
+                    "tid": "ec0929de-38c7-4afe-88f6-2e13016b2066",
+                    "pl": [{ "PAYPAL_REFUND_CHANGE_ENABLED": true }],
+                    "et": "2023-04-01T04:59:59.999Z"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      "initialExperimentTrackingDetails": {
+        "tr": [
+          {
+            "qe": "d1e985b9-564f-4dc9-ad60-81e1fe327529",
+            "qt": "9260e5c8-6060-4d9e-b79a-2c67a6c51a91",
+            "qp": 1
+          },
+          {
+            "qe": "4c511046-d0a0-4412-a205-a5fef70c975c",
+            "qt": "26893e06-0d2d-4de9-ab24-fe75ecc67318",
+            "qp": 1
+          }
+        ]
+      }
+    }
+  },
+  "page": "/",
+  "query": {},
+  "buildId": "t5WgUG0lDTFp8XldhMwNp",
+  "assetPrefix": "https://assets.targetimg1.com/webui/top-of-funnel",
+  "isFallback": false,
+  "dynamicIds": [
+    89503, 77276, 50163, 12045, 26763, 72146, 32540, 6917, 41029, 84149, 8198,
+    94923, 15653, 24793
+  ],
+  "customServer": true,
+  "gip": true,
+  "appGip": true,
+  "scriptLoader": []
+}
