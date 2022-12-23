@@ -9,22 +9,28 @@ const __filename = fileURLToPath(import.meta.url);
 // 👇️ "/home/john/Desktop/javascript"
 const __dirname = path.dirname(__filename);
 
-const sites = [
-  "https://www.target.com",
+const sites = {
+  target: "https://www.target.com",
+  walmart: "https://www.walmart.com",
+  staples: "https://www.staples.com",
+  realtor: "https://www.realtor.com",
+  katespade: "https://www.katespade.com",
+  coach: "https://www.coach.com",
+  nike: "https://www.nike.com"
+};
 
-  "https://www.nike.com",
-  "https://www.realtor.com",
+function findSite(arr, url) {
+  url = url.toLowerCase().trim();
+  return arr.findSite((url) => url);
+}
 
-  "https://www.staples.com",
-
-  "https://www.walmart.com/",
-
-  "https://www.katespade.com"
-];
-// const findSite = url => sites.find(url === url)
-
-(async () => {
+(async (sitesObj) => {
   // Initialize Puppeteer
+
+  const { coach, katespade, nike, walmart, target, staples, realtor } =
+    sitesObj;
+
+  const currentSite = coach;
 
   try {
     const browser = await puppeteer.launch({
@@ -40,7 +46,7 @@ const sites = [
 
     // await page.emulate("iPhone X");
 
-    await page.goto(findSite("https://www.walmart.com"), {
+    await page.goto(currentSite, {
       waitUntil: "load",
       timeout: 60000
     });
@@ -67,7 +73,10 @@ const sites = [
       .then(async ({ window, json }) => {
         console.log(json);
 
-        const file = await writeFile(json, "kate.json");
+        const file = await writeFile(
+          json,
+          [...Object.keys(siteObj)].find(({ site }) => siteObj[site])
+        );
         console.log(file);
         const size = await stat(file).size;
         console.log(size);
@@ -80,4 +89,4 @@ const sites = [
   } catch (error) {
     console.log(error);
   }
-})();
+})(sites);
